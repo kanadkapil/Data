@@ -1,0 +1,235 @@
+Bowler Name,Team,Matches,Innings,Overs,Balls,Runs Conceded,Wickets,Maiden Overs,Economy Rate,Average,Strike Rate,4 Wickets,5 Wickets,Best Bowling (W-R),Bowling Style,Pace (km/h),Variations Used,Dot Ball %,Boundary % (4s & 6s),Wickets in Powerplay,Wickets in Middle Overs,Wickets in Death Overs,Left Hand Batsman Wickets,Right Hand Batsman Wickets,Average Runs per Over (PP),Average Runs per Over (MO),Average Runs per Over (DO)
+Jasprit Bumrah,Mumbai Indians,14,14,56.0,336,364,25,2,6.50,14.56,13.44,1,1,5-21,Right-arm Fast,142.5,"Yorker, Slower Ball",45.2,28.5,5,10,10,12,13,7.0,6.2,7.5
+Rashid Khan,Gujarat Titans,14,14,56.0,336,392,20,1,7.00,19.60,16.80,0,0,3-28,Right-arm Leg-break,95.0,"Googly, Flipper",40.5,35.0,3,12,5,8,12,6.5,6.8,8.0
+Mohammed Shami,Gujarat Titans,12,12,48.0,288,340,18,0,7.08,18.89,16.00,0,0,4-35,Right-arm Fast-Medium,138.0,"Seam, Cross-seam",42.0,30.0,6,7,5,9,9,7.2,6.9,7.8
+Yuzvendra Chahal,Rajasthan Royals,14,14,56.0,336,420,22,0,7.50,19.09,15.27,1,0,4-30,Right-arm Leg-break,90.0,"Slider, Googly",38.0,37.5,2,15,5,10,12,7.0,7.4,8.2
+Arshdeep Singh,Punjab Kings,13,13,52.0,312,450,17,0,8.65,26.47,18.35,0,0,3-42,Left-arm Medium-Fast,135.5,"Slower Ball, Yorker",35.0,40.0,4,6,7,7,10,8.5,8.0,9.5
+Harshal Patel,Royal Challengers Bangalore,11,11,44.0,264,380,15,0,8.64,25.33,17.60,0,0,3-38,Right-arm Medium-Fast,128.0,"Slower Cutter, Off-cutter",36.5,38.0,3,5,7,6,9,8.0,8.5,9.0
+Kuldeep Yadav,Delhi Capitals,12,12,48.0,288,350,19,1,7.29,18.42,15.16,1,0,4-25,Left-arm Chinaman,88.0,"Flipper, Slider",41.0,33.0,3,10,6,8,11,7.0,7.2,7.8
+Tushar Deshpande,Chennai Super Kings,14,14,54.0,324,480,18,0,8.89,26.67,18.00,0,0,3-45,Right-arm Medium,130.0,"Slower Ball",34.0,42.0,5,7,6,8,10,8.8,8.5,9.2
+Mohammed Siraj,Royal Challengers Bangalore,14,14,56.0,336,400,23,1,7.14,17.39,14.61,1,0,4-28,Right-arm Fast,140.0,"Seam, Bouncer",43.0,32.0,6,8,9,11,12,7.5,6.8,7.8
+Trent Boult,Rajasthan Royals,13,13,52.0,312,370,21,1,7.12,17.62,14.86,1,0,4-25,Left-arm Fast-Medium,137.0,"Swing, Yorker",44.0,30.0,7,8,6,10,11,7.0,7.0,7.5
+Bhuvneshwar Kumar,Sunrisers Hyderabad,12,12,48.0,288,320,16,2,6.67,20.00,18.00,0,0,3-20,Right-arm Medium-Fast,125.0,"Swing, Knuckle Ball",48.0,25.0,5,6,5,7,9,6.5,6.8,7.0
+Avesh Khan,Lucknow Super Giants,10,10,40.0,240,300,14,0,7.50,21.43,17.14,0,0,3-30,Right-arm Fast-Medium,139.0,"Slower Ball, Bouncer",39.0,36.0,4,5,5,6,8,7.8,7.2,8.0
+Prasidh Krishna,Rajasthan Royals,9,9,36.0,216,280,12,0,7.78,23.33,18.00,0,0,3-35,Right-arm Fast,140.0,"Bouncer, Yorker",37.0,38.0,3,4,5,5,7,8.0,7.5,8.5
+Lockie Ferguson,Kolkata Knight Riders,8,8,32.0,192,260,11,0,8.13,23.64,17.45,0,0,3-40,Right-arm Fast,145.0,"Slower Ball, Bouncer",36.0,39.0,3,4,4,5,6,8.2,7.9,8.5
+Umran Malik,Sunrisers Hyderabad,10,10,40.0,240,360,15,0,9.00,24.00,16.00,0,0,4-45,Right-arm Fast,150.0,"Yorker, Bouncer",32.0,45.0,4,6,5,7,8,9.0,8.5,9.5
+Deepak Chahar,Chennai Super Kings,7,7,28.0,168,200,9,1,7.14,22.22,18.67,0,0,3-22,Right-arm Medium-Fast,128.0,"Swing, Knuckle Ball",45.0,28.0,4,3,2,4,5,7.0,7.2,7.5
+Shardul Thakur,Delhi Capitals,11,11,44.0,350,16,0,7.95,21.88,19.38,0,0,3-30,Right-arm Medium-Fast,130.0,"Knuckle Ball, Slower Ball",37.0,37.0,4,6,6,8,8,8.0,7.5,8.2
+Ravi Bishnoi,Lucknow Super Giants,14,14,56.0,336,410,19,0,7.32,21.58,17.68,0,0,3-25,Right-arm Leg-break,92.0,"Googly, Slider",39.0,36.0,2,10,7,9,10,7.0,7.5,7.8
+Axar Patel,Delhi Capitals,14,14,56.0,336,380,17,1,6.79,22.35,19.76,0,0,2-20,Left-arm Orthodox,85.0,"Arm Ball, Slider",46.0,25.0,2,8,7,9,8,6.5,6.8,7.0
+Varun Chakravarthy,Kolkata Knight Riders,10,10,40.0,240,290,15,0,7.25,19.33,16.00,0,0,3-22,Right-arm Leg-break,87.0,"Carrom Ball, Slider",40.0,33.0,1,9,5,7,8,7.0,7.3,7.5
+Wanindu Hasaranga,Royal Challengers Bangalore,10,10,40.0,240,310,18,0,7.75,17.22,13.33,1,0,4-20,Right-arm Leg-break,90.0,"Googly, Flipper",38.0,36.0,2,10,6,8,10,7.5,7.6,8.0
+Mujeeb Ur Rahman,Kolkata Knight Riders,6,6,24.0,144,180,8,0,7.50,22.50,18.00,0,0,3-25,Right-arm Off-break,90.0,"Carrom Ball, Slider",39.0,35.0,1,5,2,4,4,7.2,7.5,7.8
+Adam Zampa,Rajasthan Royals,5,5,20.0,120,150,7,0,7.50,21.43,17.14,0,0,2-28,Right-arm Leg-break,91.0,"Googly, Flipper",37.0,38.0,1,4,2,3,4,7.3,7.6,7.7
+Mitchell Starc,Kolkata Knight Riders,7,7,28.0,168,220,10,0,7.86,22.00,16.80,0,0,3-30,Left-arm Fast,145.0,"Swing, Yorker",42.0,35.0,5,3,2,6,4,7.5,7.8,8.0
+Pat Cummins,Sunrisers Hyderabad,8,8,32.0,192,250,12,0,7.81,20.83,16.00,0,0,3-28,Right-arm Fast,143.0,"Seam, Bouncer",40.0,37.0,4,5,3,6,6,7.8,7.5,8.0
+Sam Curran,Punjab Kings,14,14,50.0,300,430,16,0,8.60,26.88,18.75,0,0,3-40,Left-arm Medium-Fast,130.0,"Slower Ball, Cutter",35.0,41.0,4,6,6,7,9,8.5,8.2,9.0
+Chris Jordan,Mumbai Indians,6,6,24.0,144,200,7,0,8.33,28.57,20.57,0,0,2-35,Right-arm Fast-Medium,135.0,"Yorker, Slower Ball",33.0,40.0,2,3,2,3,4,8.0,8.5,8.8
+Nathan Ellis,Punjab Kings,7,7,28.0,168,230,9,0,8.21,25.56,18.67,0,0,3-32,Right-arm Fast-Medium,136.0,"Slower Ball, Cutter",34.0,39.0,3,3,3,4,5,8.3,8.1,8.5
+Alzarri Joseph,Gujarat Titans,8,8,32.0,192,270,10,0,8.44,27.00,19.20,0,0,3-38,Right-arm Fast,140.0,"Bouncer, Yorker",33.0,42.0,3,4,3,5,5,8.5,8.2,8.7
+Mark Wood,Lucknow Super Giants,4,4,16.0,96,120,6,0,7.50,20.00,16.00,0,0,3-25,Right-arm Fast,148.0,"Bouncer, Slower Ball",38.0,35.0,2,2,2,3,3,7.8,7.2,7.5
+Reece Topley,Royal Challengers Bangalore,5,5,20.0,120,160,7,0,8.00,22.86,17.14,0,0,3-30,Left-arm Fast-Medium,135.0,"Swing, Slower Ball",36.0,38.0,2,3,2,3,4,7.8,8.0,8.2
+Jason Behrendorff,Mumbai Indians,6,6,24.0,144,190,8,0,7.92,23.75,18.00,0,0,3-30,Left-arm Fast-Medium,132.0,"Swing, Cutter",37.0,37.0,3,3,2,4,4,7.5,8.0,8.2
+Mayank Markande,Sunrisers Hyderabad,8,8,32.0,192,240,10,0,7.50,24.00,19.20,0,0,3-28,Right-arm Leg-break,88.0,"Googly, Slider",39.0,36.0,1,6,3,4,6,7.2,7.5,7.8
+Piyush Chawla,Mumbai Indians,13,13,52.0,312,400,16,0,7.69,25.00,19.50,0,0,3-35,Right-arm Leg-break,85.0,"Googly, Leg-break",37.0,38.0,2,8,6,7,9,7.5,7.8,8.0
+Mohit Sharma,Gujarat Titans,14,14,56.0,336,440,20,0,7.86,22.00,16.80,0,0,3-32,Right-arm Medium-Fast,130.0,"Slower Ball, Cutter",36.0,39.0,5,8,7,9,11,7.8,7.5,8.2
+Tushar Deshpande,Chennai Super Kings,14,14,54.0,324,480,18,0,8.89,26.67,18.00,0,0,3-45,Right-arm Medium,130.0,"Slower Ball",34.0,42.0,5,7,6,8,10,8.8,8.5,9.2
+Maheesh Theekshana,Chennai Super Kings,10,10,40.0,240,280,14,0,7.00,20.00,17.14,0,0,3-20,Right-arm Off-break,89.0,"Carrom Ball, Slider",41.0,32.0,2,7,5,6,8,6.8,7.0,7.2
+Matheesha Pathirana,Chennai Super Kings,8,8,32.0,192,250,11,0,7.81,22.73,17.45,0,0,3-30,Right-arm Fast,140.0,"Slingy Action, Yorker",35.0,40.0,2,4,5,5,6,8.0,7.5,8.5
+Josh Hazlewood,Royal Challengers Bangalore,9,9,36.0,216,260,13,1,7.22,20.00,16.62,0,0,3-25,Right-arm Fast-Medium,134.0,"Seam, Good Length",43.0,29.0,4,5,4,6,7,7.0,7.2,7.5
+David Willey,Royal Challengers Bangalore,6,6,24.0,144,180,7,0,7.50,25.71,20.57,0,0,2-30,Left-arm Fast-Medium,130.0,"Swing, Slower Ball",36.0,38.0,3,2,2,3,4,7.5,7.8,8.0
+Anrich Nortje,Delhi Capitals,7,7,28.0,168,230,10,0,8.21,23.00,16.80,0,0,3-35,Right-arm Fast,148.0,"Yorker, Bouncer",34.0,42.0,3,4,3,5,5,8.0,8.5,8.8
+Mukesh Kumar,Delhi Capitals,10,10,40.0,240,320,12,0,8.00,26.67,20.00,0,0,2-30,Right-arm Medium,130.0,"Slower Ball, Cutter",35.0,40.0,3,5,4,6,6,8.2,7.8,8.5
+Khaleel Ahmed,Delhi Capitals,11,11,44.0,264,360,14,0,8.18,25.71,18.86,0,0,3-38,Left-arm Fast-Medium,134.0,"Swing, Slower Ball",36.0,39.0,4,5,5,7,7,8.0,8.2,8.5
+Ravi Kumar,Punjab Kings,5,5,20.0,120,150,6,0,7.50,25.00,20.00,0,0,2-25,Left-arm Medium-Fast,130.0,"Swing, Cutter",38.0,37.0,2,2,2,3,3,7.5,7.8,7.7
+Rahul Chahar,Punjab Kings,12,12,48.0,350,15,0,7.29,23.33,19.20,0,0,3-28,Right-arm Leg-break,89.0,"Googly, Slider",39.0,36.0,1,8,6,7,8,7.0,7.5,7.8
+Kagiso Rabada,Punjab Kings,10,10,40.0,240,300,16,0,7.50,18.75,15.00,1,0,4-30,Right-arm Fast,145.0,"Yorker, Bouncer",40.0,35.0,5,6,5,8,8,7.5,7.3,7.8
+Riley Meredith,Mumbai Indians,5,5,20.0,120,170,6,0,8.50,28.33,20.00,0,0,2-40,Right-arm Fast,142.0,"Bouncer, Slower Ball",32.0,45.0,2,2,2,3,3,8.5,8.2,9.0
+Jofra Archer,Mumbai Indians,4,4,16.0,96,110,5,0,6.88,22.00,19.20,0,0,2-25,Right-arm Fast,148.0,"Yorker, Bouncer",40.0,30.0,2,2,1,2,3,7.0,6.5,7.2
+Jhye Richardson,Mumbai Indians,3,3,12.0,72,90,4,0,7.50,22.50,18.00,0,0,2-30,Right-arm Fast-Medium,138.0,"Swing, Slower Ball",37.0,38.0,1,2,1,2,2,7.5,7.2,7.8
+Adam Milne,Chennai Super Kings,4,4,16.0,96,130,5,0,8.13,26.00,19.20,0,0,2-35,Right-arm Fast,140.0,"Bouncer, Yorker",34.0,40.0,1,2,2,2,3,8.0,8.2,8.5
+Jason Holder,Rajasthan Royals,9,9,36.0,216,280,10,0,7.78,28.00,21.60,0,0,3-30,Right-arm Medium-Fast,128.0,"Slower Ball, Good Length",36.0,39.0,3,4,3,5,5,7.8,7.5,8.0
+Obed McCoy,Rajasthan Royals,7,7,28.0,168,220,9,0,7.86,24.44,18.67,0,0,3-30,Left-arm Fast-Medium,132.0,"Slower Ball, Cutter",35.0,39.0,2,4,3,4,5,7.8,7.5,8.2
+Marco Jansen,Sunrisers Hyderabad,8,8,32.0,192,260,11,0,8.13,23.64,17.45,0,0,3-35,Left-arm Fast-Medium,136.0,"Swing, Bouncer",34.0,41.0,3,4,4,5,6,8.0,8.2,8.5
+Fazalhaq Farooqi,Sunrisers Hyderabad,6,6,24.0,144,190,8,0,7.92,23.75,18.00,0,0,3-30,Left-arm Fast-Medium,133.0,"Swing, Slower Ball",36.0,38.0,2,3,3,4,4,7.8,8.0,8.2
+Kartik Tyagi,Sunrisers Hyderabad,5,5,20.0,120,160,6,0,8.00,26.67,20.00,0,0,2-35,Right-arm Fast,138.0,"Yorker, Bouncer",33.0,42.0,1,2,3,2,4,8.0,8.2,8.5
+Washington Sundar,Sunrisers Hyderabad,9,9,36.0,216,250,8,1,6.94,31.25,27.00,0,0,2-20,Right-arm Off-break,85.0,"Arm Ball, Quicker One",48.0,25.0,1,4,3,4,4,6.5,7.0,7.2
+Abhishek Sharma,Sunrisers Hyderabad,10,10,20.0,120,160,5,0,8.00,32.00,24.00,0,0,1-15,Left-arm Orthodox,80.0,"Arm Ball",30.0,45.0,0,3,2,2,3,7.5,8.0,8.5
+T Natarajan,Sunrisers Hyderabad,10,10,40.0,240,320,15,0,8.00,21.33,16.00,0,0,3-30,Left-arm Fast-Medium,135.0,"Yorker, Slower Ball",38.0,37.0,4,6,5,7,8,8.0,7.8,8.2
+Bhuvneshwar Kumar,Sunrisers Hyderabad,12,12,48.0,288,320,16,2,6.67,20.00,18.00,0,0,3-20,Right-arm Medium-Fast,125.0,"Swing, Knuckle Ball",48.0,25.0,5,6,5,7,9,6.5,6.8,7.0
+Adil Rashid,Sunrisers Hyderabad,5,5,20.0,120,160,7,0,8.00,22.86,17.14,0,0,2-28,Right-arm Leg-break,90.0,"Googly, Slider",37.0,38.0,1,4,2,3,4,7.5,7.8,8.0
+Andre Russell,Kolkata Knight Riders,14,14,30.0,180,280,10,0,9.33,28.00,18.00,0,0,2-35,Right-arm Fast-Medium,138.0,"Slower Ball, Bouncer",30.0,45.0,3,4,3,5,5,9.0,9.5,10.0
+Sunil Narine,Kolkata Knight Riders,14,14,56.0,336,370,16,1,6.61,23.13,21.00,0,0,3-20,Right-arm Off-break,85.0,"Carrom Ball, Quicker One",47.0,26.0,2,8,6,7,9,6.0,6.5,7.0
+Varun Chakravarthy,Kolkata Knight Riders,10,10,40.0,240,290,15,0,7.25,19.33,16.00,0,0,3-22,Right-arm Leg-break,87.0,"Carrom Ball, Slider",40.0,33.0,1,9,5,7,8,7.0,7.3,7.5
+Umesh Yadav,Kolkata Knight Riders,12,12,48.0,288,380,14,0,7.92,27.14,20.57,0,0,3-40,Right-arm Fast,140.0,"Swing, Seam",38.0,37.0,5,6,3,7,7,7.8,8.0,8.2
+Tim Southee,Kolkata Knight Riders,7,7,28.0,168,210,9,0,7.50,23.33,18.67,0,0,3-28,Right-arm Fast-Medium,130.0,"Swing, Slower Ball",40.0,35.0,3,3,3,4,5,7.2,7.5,7.8
+Shardul Thakur,Kolkata Knight Riders,11,11,44.0,350,16,0,7.95,21.88,19.38,0,0,3-30,Right-arm Medium-Fast,130.0,"Knuckle Ball, Slower Ball",37.0,37.0,4,6,6,8,8,8.0,7.5,8.2
+Arshdeep Singh,Punjab Kings,13,13,52.0,312,450,17,0,8.65,26.47,18.35,0,0,3-42,Left-arm Medium-Fast,135.5,"Slower Ball, Yorker",35.0,40.0,4,6,7,7,10,8.5,8.0,9.5
+Kagiso Rabada,Punjab Kings,10,10,40.0,240,300,16,0,7.50,18.75,15.00,1,0,4-30,Right-arm Fast,145.0,"Yorker, Bouncer",40.0,35.0,5,6,5,8,8,7.5,7.3,7.8
+Rahul Chahar,Punjab Kings,12,12,48.0,350,15,0,7.29,23.33,19.20,0,0,3-28,Right-arm Leg-break,89.0,"Googly, Slider",39.0,36.0,1,8,6,7,8,7.0,7.5,7.8
+Sam Curran,Punjab Kings,14,14,50.0,300,430,16,0,8.60,26.88,18.75,0,0,3-40,Left-arm Medium-Fast,130.0,"Slower Ball, Cutter",35.0,41.0,4,6,6,7,9,8.5,8.2,9.0
+Nathan Ellis,Punjab Kings,7,7,28.0,168,230,9,0,8.21,25.56,18.67,0,0,3-32,Right-arm Fast-Medium,136.0,"Slower Ball, Cutter",34.0,39.0,3,3,3,4,5,8.3,8.1,8.5
+Liam Livingstone,Punjab Kings,8,8,16.0,96,140,4,0,8.75,35.00,24.00,0,0,1-25,Right-arm Leg-break,80.0,"Googly",28.0,48.0,0,2,2,2,2,8.5,8.8,9.0
+Jitesh Sharma,Punjab Kings,0,0,0.0,0,0,0,0,0.00,0.00,0.00,0,0,0-0,Right-arm Off-break,0.0,"",0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+Rishi Dhawan,Punjab Kings,5,5,15.0,90,120,3,0,8.00,40.00,30.00,0,0,1-30,Right-arm Medium-Fast,125.0,"Cutter",30.0,45.0,1,1,1,1,2,7.8,8.2,8.0
+Harpreet Brar,Punjab Kings,7,7,28.0,168,200,8,0,7.14,25.00,21.00,0,0,2-25,Left-arm Orthodox,86.0,"Arm Ball",42.0,30.0,1,4,3,4,4,7.0,7.2,7.5
+Sikandar Raza,Punjab Kings,6,6,18.0,108,150,5,0,8.33,30.00,21.60,0,0,2-30,Right-arm Off-break,88.0,"Slider",35.0,40.0,1,2,2,2,3,8.0,8.5,8.2
+Wanindu Hasaranga,Royal Challengers Bangalore,10,10,40.0,240,310,18,0,7.75,17.22,13.33,1,0,4-20,Right-arm Leg-break,90.0,"Googly, Flipper",38.0,36.0,2,10,6,8,10,7.5,7.6,8.0
+Mohammed Siraj,Royal Challengers Bangalore,14,14,56.0,336,400,23,1,7.14,17.39,14.61,1,0,4-28,Right-arm Fast,140.0,"Seam, Bouncer",43.0,32.0,6,8,9,11,12,7.5,6.8,7.8
+Josh Hazlewood,Royal Challengers Bangalore,9,9,36.0,216,260,13,1,7.22,20.00,16.62,0,0,3-25,Right-arm Fast-Medium,134.0,"Seam, Good Length",43.0,29.0,4,5,4,6,7,7.0,7.2,7.5
+David Willey,Royal Challengers Bangalore,6,6,24.0,144,180,7,0,7.50,25.71,20.57,0,0,2-30,Left-arm Fast-Medium,130.0,"Swing, Slower Ball",36.0,38.0,3,2,2,3,4,7.5,7.8,8.0
+Reece Topley,Royal Challengers Bangalore,5,5,20.0,120,160,7,0,8.00,22.86,17.14,0,0,3-30,Left-arm Fast-Medium,135.0,"Swing, Slower Ball",36.0,38.0,2,3,2,3,4,7.8,8.0,8.2
+Karn Sharma,Royal Challengers Bangalore,8,8,32.0,192,250,9,0,7.81,27.78,21.33,0,0,2-30,Right-arm Leg-break,86.0,"Googly",35.0,40.0,1,5,3,4,5,7.5,8.0,8.2
+Akash Deep,Royal Challengers Bangalore,5,5,20.0,120,170,6,0,8.50,28.33,20.00,0,0,2-35,Right-arm Medium-Fast,130.0,"Slower Ball",32.0,43.0,2,2,2,3,3,8.5,8.2,8.8
+Vijaykumar Vyshak,Royal Challengers Bangalore,4,4,16.0,96,130,5,0,8.13,26.00,19.20,0,0,2-30,Right-arm Medium-Fast,132.0,"Cutter",34.0,41.0,1,2,2,2,3,8.0,8.2,8.5
+Deepak Chahar,Chennai Super Kings,7,7,28.0,168,200,9,1,7.14,22.22,18.67,0,0,3-22,Right-arm Medium-Fast,128.0,"Swing, Knuckle Ball",45.0,28.0,4,3,2,4,5,7.0,7.2,7.5
+Maheesh Theekshana,Chennai Super Kings,10,10,40.0,240,280,14,0,7.00,20.00,17.14,0,0,3-20,Right-arm Off-break,89.0,"Carrom Ball, Slider",41.0,32.0,2,7,5,6,8,6.8,7.0,7.2
+Matheesha Pathirana,Chennai Super Kings,8,8,32.0,192,250,11,0,7.81,22.73,17.45,0,0,3-30,Right-arm Fast,140.0,"Slingy Action, Yorker",35.0,40.0,2,4,5,5,6,8.0,7.5,8.5
+Ravindra Jadeja,Chennai Super Kings,14,14,56.0,336,360,15,1,6.43,24.00,22.40,0,0,2-18,Left-arm Orthodox,88.0,"Arm Ball, Quicker One",48.0,24.0,1,7,7,8,7,6.0,6.5,6.8
+Moeen Ali,Chennai Super Kings,12,12,30.0,180,240,8,0,8.00,30.00,22.50,0,0,2-25,Right-arm Off-break,85.0,"Arm Ball",35.0,40.0,1,4,3,4,4,7.5,8.0,8.2
+Mitchell Santner,Chennai Super Kings,5,5,20.0,140,6,0,7.00,23.33,20.00,0,0,2-20,Left-arm Orthodox,87.0,"Arm Ball, Slider",40.0,30.0,1,3,2,3,3,6.8,7.2,7.0
+Simarjeet Singh,Chennai Super Kings,6,6,24.0,144,190,7,0,7.92,27.14,20.57,0,0,2-35,Right-arm Medium-Fast,130.0,"Slower Ball",33.0,42.0,2,3,2,3,4,8.0,8.2,8.5
+Rajvardhan Hangargekar,Chennai Super Kings,3,3,12.0,72,100,3,0,8.33,33.33,24.00,0,0,1-30,Right-arm Fast-Medium,135.0,"Bouncer",30.0,45.0,1,1,1,1,2,8.5,8.0,8.8
+Dwaine Pretorius,Chennai Super Kings,4,4,16.0,96,130,5,0,8.13,26.00,19.20,0,0,2-30,Right-arm Medium-Fast,130.0,"Slower Ball, Cutter",34.0,41.0,1,2,2,2,3,8.0,8.2,8.5
+Adil Rashid,Sunrisers Hyderabad,5,5,20.0,120,160,7,0,8.00,22.86,17.14,0,0,2-28,Right-arm Leg-break,90.0,"Googly, Slider",37.0,38.0,1,4,2,3,4,7.5,7.8,8.0
+Adam Zampa,Rajasthan Royals,5,5,20.0,120,150,7,0,7.50,21.43,17.14,0,0,2-28,Right-arm Leg-break,91.0,"Googly, Flipper",37.0,38.0,1,4,2,3,4,7.3,7.6,7.7
+Trent Boult,Rajasthan Royals,13,13,52.0,312,370,21,1,7.12,17.62,14.86,1,0,4-25,Left-arm Fast-Medium,137.0,"Swing, Yorker",44.0,30.0,7,8,6,10,11,7.0,7.0,7.5
+Prasidh Krishna,Rajasthan Royals,9,9,36.0,216,280,12,0,7.78,23.33,18.00,0,0,3-35,Right-arm Fast,140.0,"Bouncer, Yorker",37.0,38.0,3,4,5,5,7,8.0,7.5,8.5
+Yuzvendra Chahal,Rajasthan Royals,14,14,56.0,336,420,22,0,7.50,19.09,15.27,1,0,4-30,Right-arm Leg-break,90.0,"Slider, Googly",38.0,37.5,2,15,5,10,12,7.0,7.4,8.2
+Jason Holder,Rajasthan Royals,9,9,36.0,216,280,10,0,7.78,28.00,21.60,0,0,3-30,Right-arm Medium-Fast,128.0,"Slower Ball, Good Length",36.0,39.0,3,4,3,5,5,7.8,7.5,8.0
+Obed McCoy,Rajasthan Royals,7,7,28.0,168,220,9,0,7.86,24.44,18.67,0,0,3-30,Left-arm Fast-Medium,132.0,"Slower Ball, Cutter",35.0,39.0,2,4,3,4,5,7.8,7.5,8.2
+Ravichandran Ashwin,Rajasthan Royals,14,14,56.0,336,370,14,1,6.61,26.43,24.00,0,0,2-25,Right-arm Off-break,87.0,"Carrom Ball, Slider",46.0,27.0,1,7,6,7,7,6.5,6.8,7.0
+Kuldeep Sen,Rajasthan Royals,8,8,32.0,192,260,9,0,8.13,28.89,21.33,0,0,2-35,Right-arm Fast,140.0,"Bouncer",33.0,42.0,3,3,3,4,5,8.0,8.2,8.5
+Murugan Ashwin,Rajasthan Royals,6,6,24.0,144,190,7,0,7.92,27.14,20.57,0,0,2-30,Right-arm Leg-break,86.0,"Googly",35.0,40.0,1,4,2,3,4,7.5,8.0,8.2
+Navdeep Saini,Rajasthan Royals,5,5,20.0,120,160,5,0,8.00,32.00,24.00,0,0,2-30,Right-arm Fast,140.0,"Yorker",30.0,45.0,1,2,2,2,3,8.0,8.2,8.5
+Yashasvi Jaiswal,Rajasthan Royals,0,0,0.0,0,0,0,0,0.00,0.00,0.00,0,0,0-0,Right-arm Leg-break,0.0,"",0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+Sanju Samson,Rajasthan Royals,0,0,0.0,0,0,0,0,0.00,0.00,0.00,0,0,0-0,Right-arm Off-break,0.0,"",0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+Devon Conway,Chennai Super Kings,0,0,0.0,0,0,0,0,0.00,0.00,0.00,0,0,0-0,Left-arm Medium,0.0,"",0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+Ruturaj Gaikwad,Chennai Super Kings,0,0,0.0,0,0,0,0,0.00,0.00,0.00,0,0,0-0,Right-arm Off-break,0.0,"",0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+Shivam Dube,Chennai Super Kings,8,8,12.0,72,100,2,0,8.33,50.00,36.00,0,0,1-30,Left-arm Medium,25.0,,"",28.0,48.0,0,1,1,1,1,8.0,8.5,8.5
+Ajinkya Rahane,Chennai Super Kings,0,0,0.0,0,0,0,0,0.00,0.00,0.00,0,0,0-0,Right-arm Off-break,0.0,"",0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+M.S. Dhoni,Chennai Super Kings,0,0,0.0,0,0,0,0,0.00,0.00,0.00,0,0,0-0,Right-arm Medium,0.0,"",0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+Ben Stokes,Chennai Super Kings,7,7,20.0,120,180,5,0,9.00,36.00,24.00,0,0,2-40,Left-arm Fast-Medium,130.0,"Slower Ball",30.0,45.0,1,2,2,2,3,9.0,8.8,9.2
+Kyle Mayers,Lucknow Super Giants,10,10,15.0,90,130,3,0,8.67,43.33,30.00,0,0,1-35,Right-arm Medium,120.0,"Cutter",28.0,48.0,0,1,2,1,2,8.5,8.8,9.0
+Quinton de Kock,Lucknow Super Giants,0,0,0.0,0,0,0,0,0.00,0.00,0.00,0,0,0-0,Right-arm Off-break,0.0,"",0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+Nicholas Pooran,Lucknow Super Giants,0,0,0.0,0,0,0,0,0.00,0.00,0.00,0,0,0-0,Right-arm Off-break,0.0,"",0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+Marcus Stoinis,Lucknow Super Giants,12,12,25.0,150,220,7,0,8.80,31.43,21.43,0,0,2-30,Right-arm Medium-Fast,130.0,"Slower Ball",32.0,43.0,2,3,2,3,4,8.5,9.0,9.2
+Krunal Pandya,Lucknow Super Giants,14,14,56.0,336,390,12,1,6.96,32.50,28.00,0,0,2-22,Left-arm Orthodox,85.0,"Arm Ball",45.0,28.0,1,6,5,6,6,6.5,7.0,7.2
+Ravi Bishnoi,Lucknow Super Giants,14,14,56.0,336,410,19,0,7.32,21.58,17.68,0,0,3-25,Right-arm Leg-break,92.0,"Googly, Slider",39.0,36.0,2,10,7,9,10,7.0,7.5,7.8
+Avesh Khan,Lucknow Super Giants,10,10,40.0,240,300,14,0,7.50,21.43,17.14,0,0,3-30,Right-arm Fast-Medium,139.0,"Slower Ball, Bouncer",39.0,36.0,4,5,5,6,8,7.8,7.2,8.0
+Mark Wood,Lucknow Super Giants,4,4,16.0,96,120,6,0,7.50,20.00,16.00,0,0,3-25,Right-arm Fast,148.0,"Bouncer, Slower Ball",38.0,35.0,2,2,2,3,3,7.8,7.2,7.5
+Amit Mishra,Lucknow Super Giants,5,5,20.0,120,150,6,0,7.50,25.00,20.00,0,0,2-28,Right-arm Leg-break,85.0,"Googly",38.0,37.0,1,3,2,3,3,7.2,7.5,7.8
+Jaydev Unadkat,Lucknow Super Giants,7,7,28.0,168,230,8,0,8.21,28.75,21.00,0,0,2-35,Left-arm Medium-Fast,128.0,"Slower Ball, Cutter",34.0,41.0,2,3,3,3,5,8.0,8.5,8.8
+Yash Thakur,Lucknow Super Giants,6,6,24.0,144,190,7,0,7.92,27.14,20.57,0,0,2-30,Right-arm Medium-Fast,130.0,"Slower Ball",35.0,40.0,2,3,2,3,4,7.8,8.0,8.2
+Ravi Bishnoi,Lucknow Super Giants,14,14,56.0,336,410,19,0,7.32,21.58,17.68,0,0,3-25,Right-arm Leg-break,92.0,"Googly, Slider",39.0,36.0,2,10,7,9,10,7.0,7.5,7.8
+Mohammed Shami,Gujarat Titans,12,12,48.0,288,340,18,0,7.08,18.89,16.00,0,0,4-35,Right-arm Fast-Medium,138.0,"Seam, Cross-seam",42.0,30.0,6,7,5,9,9,7.2,6.9,7.8
+Rashid Khan,Gujarat Titans,14,14,56.0,336,392,20,1,7.00,19.60,16.80,0,0,3-28,Right-arm Leg-break,95.0,"Googly, Flipper",40.5,35.0,3,12,5,8,12,6.5,6.8,8.0
+Mohit Sharma,Gujarat Titans,14,14,56.0,336,440,20,0,7.86,22.00,16.80,0,0,3-32,Right-arm Medium-Fast,130.0,"Slower Ball, Cutter",36.0,39.0,5,8,7,9,11,7.8,7.5,8.2
+Alzarri Joseph,Gujarat Titans,8,8,32.0,192,270,10,0,8.44,27.00,19.20,0,0,3-38,Right-arm Fast,140.0,"Bouncer, Yorker",33.0,42.0,3,4,3,5,5,8.5,8.2,8.7
+Noor Ahmad,Gujarat Titans,9,9,36.0,216,260,11,0,7.22,23.64,19.64,0,0,3-25,Left-arm Chinaman,88.0,"Flipper, Slider",39.0,36.0,1,7,3,5,6,7.0,7.3,7.5
+Joshua Little,Gujarat Titans,7,7,28.0,168,220,8,0,7.86,27.50,21.00,0,0,2-30,Left-arm Fast-Medium,135.0,"Swing, Slower Ball",35.0,40.0,2,3,3,4,4,7.8,8.0,8.2
+Darshan Nalkande,Gujarat Titans,3,3,12.0,72,90,3,0,7.50,30.00,24.00,0,0,1-25,Right-arm Medium-Fast,130.0,"Cutter",30.0,45.0,1,1,1,1,2,7.5,7.8,8.0
+Sai Kishore,Gujarat Titans,4,4,16.0,96,120,4,0,7.50,30.00,24.00,0,0,1-28,Left-arm Orthodox,85.0,"Arm Ball",38.0,37.0,1,2,1,2,2,7.2,7.5,7.5
+Jayant Yadav,Gujarat Titans,5,5,20.0,120,150,5,0,7.50,30.00,24.00,0,0,2-30,Right-arm Off-break,86.0,"Slider",37.0,38.0,1,2,2,2,3,7.5,7.8,7.7
+Yash Dayal,Gujarat Titans,7,7,28.0,168,240,8,0,8.57,30.00,21.00,0,0,2-35,Left-arm Medium-Fast,132.0,"Slower Ball",32.0,43.0,2,3,3,3,5,8.5,8.2,8.8
+Jasprit Bumrah,Mumbai Indians,14,14,56.0,336,364,25,2,6.50,14.56,13.44,1,1,5-21,Right-arm Fast,142.5,"Yorker, Slower Ball",45.2,28.5,5,10,10,12,13,7.0,6.2,7.5
+Jofra Archer,Mumbai Indians,4,4,16.0,96,110,5,0,6.88,22.00,19.20,0,0,2-25,Right-arm Fast,148.0,"Yorker, Bouncer",40.0,30.0,2,2,1,2,3,7.0,6.5,7.2
+Jason Behrendorff,Mumbai Indians,6,6,24.0,144,190,8,0,7.92,23.75,18.00,0,0,3-30,Left-arm Fast-Medium,132.0,"Swing, Cutter",37.0,37.0,3,3,2,4,4,7.5,8.0,8.2
+Piyush Chawla,Mumbai Indians,13,13,52.0,312,400,16,0,7.69,25.00,19.50,0,0,3-35,Right-arm Leg-break,85.0,"Googly, Leg-break",37.0,38.0,2,8,6,7,9,7.5,7.8,8.0
+Kumar Kartikeya,Mumbai Indians,7,7,28.0,168,200,9,0,7.14,22.22,18.67,0,0,2-25,Left-arm Orthodox,86.0,"Arm Ball",42.0,30.0,1,5,3,4,5,7.0,7.2,7.5
+Akash Madhwal,Mumbai Indians,8,8,32.0,192,260,11,0,8.13,23.64,17.45,0,0,3-30,Right-arm Medium-Fast,135.0,"Yorker, Slower Ball",34.0,41.0,3,4,4,5,6,8.0,8.2,8.5
+Chris Jordan,Mumbai Indians,6,6,24.0,144,200,7,0,8.33,28.57,20.57,0,0,2-35,Right-arm Fast-Medium,135.0,"Yorker, Slower Ball",33.0,40.0,2,3,2,3,4,8.0,8.5,8.8
+Jhye Richardson,Mumbai Indians,3,3,12.0,72,90,4,0,7.50,22.50,18.00,0,0,2-30,Right-arm Fast-Medium,138.0,"Swing, Slower Ball",37.0,38.0,1,2,1,2,2,7.5,7.2,7.8
+Riley Meredith,Mumbai Indians,5,5,20.0,120,170,6,0,8.50,28.33,20.00,0,0,2-40,Right-arm Fast,142.0,"Bouncer, Slower Ball",32.0,45.0,2,2,2,3,3,8.5,8.2,9.0
+Jitesh Sharma,Punjab Kings,0,0,0.0,0,0,0,0,0.00,0.00,0.00,0,0,0-0,Right-arm Off-break,0.0,"",0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+Sanju Samson,Rajasthan Royals,0,0,0.0,0,0,0,0,0.00,0.00,0.00,0,0,0-0,Right-arm Off-break,0.0,"",0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+Devon Conway,Chennai Super Kings,0,0,0.0,0,0,0,0,0.00,0.00,0.00,0,0,0-0,Left-arm Medium,0.0,"",0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+Ruturaj Gaikwad,Chennai Super Kings,0,0,0.0,0,0,0,0,0.00,0.00,0.00,0,0,0-0,Right-arm Off-break,0.0,"",0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+Ajinkya Rahane,Chennai Super Kings,0,0,0.0,0,0,0,0,0.00,0.00,0.00,0,0,0-0,Right-arm Off-break,0.0,"",0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+M.S. Dhoni,Chennai Super Kings,0,0,0.0,0,0,0,0,0.00,0.00,0.00,0,0,0-0,Right-arm Medium,0.0,"",0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+Quinton de Kock,Lucknow Super Giants,0,0,0.0,0,0,0,0,0.00,0.00,0.00,0,0,0-0,Right-arm Off-break,0.0,"",0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+Nicholas Pooran,Lucknow Super Giants,0,0,0.0,0,0,0,0,0.00,0.00,0.00,0,0,0-0,Right-arm Off-break,0.0,"",0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+Yashasvi Jaiswal,Rajasthan Royals,0,0,0.0,0,0,0,0,0.00,0.00,0.00,0,0,0-0,Right-arm Leg-break,0.0,"",0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+Shubman Gill,Gujarat Titans,0,0,0.0,0,0,0,0,0.00,0.00,0.00,0,0,0-0,Right-arm Off-break,0.0,"",0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+Hardik Pandya,Mumbai Indians,14,14,35.0,210,320,10,0,9.14,32.00,21.00,0,0,2-40,Right-arm Medium-Fast,130.0,"Slower Ball",30.0,48.0,3,4,3,5,5,9.0,9.2,9.5
+Kieron Pollard,Mumbai Indians,5,5,10.0,60,90,2,0,9.00,45.00,30.00,0,0,1-30,Right-arm Medium-Fast,120.0,"Slower Ball",25.0,50.0,1,1,0,1,1,8.5,9.0,9.5
+Tilak Varma,Mumbai Indians,0,0,0.0,0,0,0,0,0.00,0.00,0.00,0,0,0-0,Left-arm Orthodox,0.0,"",0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+Tim David,Mumbai Indians,0,0,0.0,0,0,0,0,0.00,0.00,0.00,0,0,0-0,Right-arm Off-break,0.0,"",0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+Dewald Brevis,Mumbai Indians,0,0,0.0,0,0,0,0,0.00,0.00,0.00,0,0,0-0,Right-arm Leg-break,0.0,"",0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+Cameron Green,Mumbai Indians,14,14,40.0,240,350,12,0,8.75,29.17,20.00,0,0,2-45,Right-arm Fast-Medium,138.0,"Bouncer, Slower Ball",30.0,45.0,3,5,4,6,6,8.5,9.0,9.2
+Jitesh Sharma,Punjab Kings,0,0,0.0,0,0,0,0,0.00,0.00,0.00,0,0,0-0,Right-arm Off-break,0.0,"",0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+Prabhsimran Singh,Punjab Kings,0,0,0.0,0,0,0,0,0.00,0.00,0.00,0,0,0-0,Right-arm Off-break,0.0,"",0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+Matthew Short,Punjab Kings,0,0,0.0,0,0,0,0,0.00,0.00,0.00,0,0,0-0,Right-arm Off-break,0.0,"",0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+Shahrukh Khan,Punjab Kings,0,0,0.0,0,0,0,0,0.00,0.00,0.00,0,0,0-0,Right-arm Off-break,0.0,"",0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+Atharva Taide,Punjab Kings,0,0,0.0,0,0,0,0,0.00,0.00,0.00,0,0,0-0,Left-arm Orthodox,0.0,"",0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+Mohit Rathee,Punjab Kings,0,0,0.0,0,0,0,0,0.00,0.00,0.00,0,0,0-0,Right-arm Leg-break,0.0,"",0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+Shivam Mavi,Gujarat Titans,8,8,30.0,180,250,9,0,8.33,27.78,20.00,0,0,2-30,Right-arm Fast-Medium,138.0,"Slower Ball",35.0,40.0,2,4,3,4,5,8.0,8.5,8.8
+R Sai Kishore,Gujarat Titans,4,4,16.0,96,120,4,0,7.50,30.00,24.00,0,0,1-28,Left-arm Orthodox,85.0,"Arm Ball",38.0,37.0,1,2,1,2,2,7.2,7.5,7.5
+Vijay Shankar,Gujarat Titans,8,8,10.0,60,90,2,0,9.00,45.00,30.00,0,0,1-35,Right-arm Medium,120.0,"Cutter",28.0,48.0,0,1,1,1,1,8.5,9.0,9.0
+Wriddhiman Saha,Gujarat Titans,0,0,0.0,0,0,0,0,0.00,0.00,0.00,0,0,0-0,Right-arm Off-break,0.0,"",0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+Rahul Tewatia,Gujarat Titans,14,14,15.0,90,120,3,0,8.00,40.00,30.00,0,0,1-25,Right-arm Leg-break,80.0,"Googly",30.0,45.0,0,1,2,1,2,7.8,8.2,8.5
+Abhinav Manohar,Gujarat Titans,0,0,0.0,0,0,0,0,0.00,0.00,0.00,0,0,0-0,Right-arm Off-break,0.0,"",0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+Darshan Nalkande,Gujarat Titans,3,3,12.0,72,90,3,0,7.50,30.00,24.00,0,0,1-25,Right-arm Medium-Fast,130.0,"Cutter",30.0,45.0,1,1,1,1,2,7.5,7.8,8.0
+Yash Dayal,Gujarat Titans,7,7,28.0,168,240,8,0,8.57,30.00,21.00,0,0,2-35,Left-arm Medium-Fast,132.0,"Slower Ball",32.0,43.0,2,3,3,3,5,8.5,8.2,8.8
+Sai Sudharsan,Gujarat Titans,0,0,0.0,0,0,0,0,0.00,0.00,0.00,0,0,0-0,Right-arm Leg-break,0.0,"",0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+Vijaykumar Vyshak,Royal Challengers Bangalore,4,4,16.0,96,130,5,0,8.13,26.00,19.20,0,0,2-30,Right-arm Medium-Fast,132.0,"Cutter",34.0,41.0,1,2,2,2,3,8.0,8.2,8.5
+Akash Deep,Royal Challengers Bangalore,5,5,20.0,120,170,6,0,8.50,28.33,20.00,0,0,2-35,Right-arm Medium-Fast,130.0,"Slower Ball",32.0,43.0,2,2,2,3,3,8.5,8.2,8.8
+Karn Sharma,Royal Challengers Bangalore,8,8,32.0,192,250,9,0,7.81,27.78,21.33,0,0,2-30,Right-arm Leg-break,86.0,"Googly",35.0,40.0,1,5,3,4,5,7.5,8.0,8.2
+Shahbaz Ahmed,Royal Challengers Bangalore,10,10,30.0,180,220,7,0,7.33,31.43,25.71,0,0,2-28,Left-arm Orthodox,85.0,"Arm Ball",40.0,35.0,1,3,3,3,4,7.0,7.5,7.8
+Harshal Patel,Royal Challengers Bangalore,11,11,44.0,264,380,15,0,8.64,25.33,17.60,0,0,3-38,Right-arm Medium-Fast,128.0,"Slower Cutter, Off-cutter",36.5,38.0,3,5,7,6,9,8.0,8.5,9.0
+Glenn Maxwell,Royal Challengers Bangalore,12,12,25.0,150,200,6,0,8.00,33.33,25.00,0,0,1-20,Right-arm Off-break,80.0,"Arm Ball",30.0,45.0,0,2,4,2,4,7.5,8.0,8.5
+Wanindu Hasaranga,Royal Challengers Bangalore,10,10,40.0,240,310,18,0,7.75,17.22,13.33,1,0,4-20,Right-arm Leg-break,90.0,"Googly, Flipper",38.0,36.0,2,10,6,8,10,7.5,7.6,8.0
+Mohammed Siraj,Royal Challengers Bangalore,14,14,56.0,336,400,23,1,7.14,17.39,14.61,1,0,4-28,Right-arm Fast,140.0,"Seam, Bouncer",43.0,32.0,6,8,9,11,12,7.5,6.8,7.8
+Josh Hazlewood,Royal Challengers Bangalore,9,9,36.0,216,260,13,1,7.22,20.00,16.62,0,0,3-25,Right-arm Fast-Medium,134.0,"Seam, Good Length",43.0,29.0,4,5,4,6,7,7.0,7.2,7.5
+David Willey,Royal Challengers Bangalore,6,6,24.0,144,180,7,0,7.50,25.71,20.57,0,0,2-30,Left-arm Fast-Medium,130.0,"Swing, Slower Ball",36.0,38.0,3,2,2,3,4,7.5,7.8,8.0
+Reece Topley,Royal Challengers Bangalore,5,5,20.0,120,160,7,0,8.00,22.86,17.14,0,0,3-30,Left-arm Fast-Medium,135.0,"Swing, Slower Ball",36.0,38.0,2,3,2,3,4,7.8,8.0,8.2
+Kuldeep Yadav,Delhi Capitals,12,12,48.0,288,350,19,1,7.29,18.42,15.16,1,0,4-25,Left-arm Chinaman,88.0,"Flipper, Slider",41.0,33.0,3,10,6,8,11,7.0,7.2,7.8
+Axar Patel,Delhi Capitals,14,14,56.0,336,380,17,1,6.79,22.35,19.76,0,0,2-20,Left-arm Orthodox,85.0,"Arm Ball, Slider",46.0,25.0,2,8,7,9,8,6.5,6.8,7.0
+Anrich Nortje,Delhi Capitals,7,7,28.0,168,230,10,0,8.21,23.00,16.80,0,0,3-35,Right-arm Fast,148.0,"Yorker, Bouncer",34.0,42.0,3,4,3,5,5,8.0,8.5,8.8
+Mukesh Kumar,Delhi Capitals,10,10,40.0,240,320,12,0,8.00,26.67,20.00,0,0,2-30,Right-arm Medium,130.0,"Slower Ball, Cutter",35.0,40.0,3,5,4,6,6,8.2,7.8,8.5
+Khaleel Ahmed,Delhi Capitals,11,11,44.0,264,360,14,0,8.18,25.71,18.86,0,0,3-38,Left-arm Fast-Medium,134.0,"Swing, Slower Ball",36.0,39.0,4,5,5,7,7,8.0,8.2,8.5
+Mitchell Marsh,Delhi Capitals,10,10,25.0,150,200,6,0,8.00,33.33,25.00,0,0,2-30,Right-arm Fast-Medium,130.0,"Slower Ball",32.0,43.0,2,2,2,3,3,8.0,8.2,8.5
+Lungi Ngidi,Delhi Capitals,5,5,20.0,160,6,0,8.00,26.67,20.00,0,0,2-35,Right-arm Fast,140.0,"Bouncer",30.0,45.0,1,2,2,2,3,8.0,8.5,8.8
+Chetan Sakariya,Delhi Capitals,6,6,24.0,144,190,7,0,7.92,27.14,20.57,0,0,2-30,Left-arm Medium-Fast,128.0,"Slower Ball, Cutter",35.0,40.0,2,3,2,3,4,7.8,8.0,8.2
+Pravin Dubey,Delhi Capitals,3,3,12.0,72,90,3,0,7.50,30.00,24.00,0,0,1-25,Right-arm Leg-break,85.0,"Googly",30.0,45.0,1,1,1,1,2,7.5,7.8,8.0
+Sarfaraz Khan,Delhi Capitals,0,0,0.0,0,0,0,0,0.00,0.00,0.00,0,0,0-0,Right-arm Leg-break,0.0,"",0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+Rovman Powell,Delhi Capitals,0,0,0.0,0,0,0,0,0.00,0.00,0.00,0,0,0-0,Right-arm Medium-Fast,0.0,"",0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+Prithvi Shaw,Delhi Capitals,0,0,0.0,0,0,0,0,0.00,0.00,0.00,0,0,0-0,Right-arm Off-break,0.0,"",0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+Manish Pandey,Delhi Capitals,0,0,0.0,0,0,0,0,0.00,0.00,0.00,0,0,0-0,Right-arm Off-break,0.0,"",0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+Rilee Rossouw,Delhi Capitals,0,0,0.0,0,0,0,0,0.00,0.00,0.00,0,0,0-0,Left-arm Off-break,0.0,"",0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+Phil Salt,Delhi Capitals,0,0,0.0,0,0,0,0,0.00,0.00,0.00,0,0,0-0,Right-arm Off-break,0.0,"",0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+David Warner,Delhi Capitals,0,0,0.0,0,0,0,0,0.00,0.00,0.00,0,0,0-0,Left-arm Leg-break,0.0,"",0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+Rishabh Pant,Delhi Capitals,0,0,0.0,0,0,0,0,0.00,0.00,0.00,0,0,0-0,Right-arm Off-break,0.0,"",0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+Mitchell Starc,Kolkata Knight Riders,7,7,28.0,168,220,10,0,7.86,22.00,16.80,0,0,3-30,Left-arm Fast,145.0,"Swing, Yorker",42.0,35.0,5,3,2,6,4,7.5,7.8,8.0
+Lockie Ferguson,Kolkata Knight Riders,8,8,32.0,192,260,11,0,8.13,23.64,17.45,0,0,3-40,Right-arm Fast,145.0,"Slower Ball, Bouncer",36.0,39.0,3,4,4,5,6,8.2,7.9,8.5
+Andre Russell,Kolkata Knight Riders,14,14,30.0,180,280,10,0,9.33,28.00,18.00,0,0,2-35,Right-arm Fast-Medium,138.0,"Slower Ball, Bouncer",30.0,45.0,3,4,3,5,5,9.0,9.5,10.0
+Sunil Narine,Kolkata Knight Riders,14,14,56.0,336,370,16,1,6.61,23.13,21.00,0,0,3-20,Right-arm Off-break,85.0,"Carrom Ball, Quicker One",47.0,26.0,2,8,6,7,9,6.0,6.5,7.0
+Varun Chakravarthy,Kolkata Knight Riders,10,10,40.0,240,290,15,0,7.25,19.33,16.00,0,0,3-22,Right-arm Leg-break,87.0,"Carrom Ball, Slider",40.0,33.0,1,9,5,7,8,7.0,7.3,7.5
+Umesh Yadav,Kolkata Knight Riders,12,12,48.0,288,380,14,0,7.92,27.14,20.57,0,0,3-40,Right-arm Fast,140.0,"Swing, Seam",38.0,37.0,5,6,3,7,7,7.8,8.0,8.2
+Tim Southee,Kolkata Knight Riders,7,7,28.0,168,210,9,0,7.50,23.33,18.67,0,0,3-28,Right-arm Fast-Medium,130.0,"Swing, Slower Ball",40.0,35.0,3,3,3,4,5,7.2,7.5,7.8
+Shardul Thakur,Kolkata Knight Riders,11,11,44.0,350,16,0,7.95,21.88,19.38,0,0,3-30,Right-arm Medium-Fast,130.0,"Knuckle Ball, Slower Ball",37.0,37.0,4,6,6,8,8,8.0,7.5,8.2
+Mujeeb Ur Rahman,Kolkata Knight Riders,6,6,24.0,144,180,8,0,7.50,22.50,18.00,0,0,3-25,Right-arm Off-break,90.0,"Carrom Ball, Slider",39.0,35.0,1,5,2,4,4,7.2,7.5,7.8
+Nitish Rana,Kolkata Knight Riders,0,0,0.0,0,0,0,0,0.00,0.00,0.00,0,0,0-0,Right-arm Off-break,0.0,"",0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+Venkatesh Iyer,Kolkata Knight Riders,10,10,15.0,90,120,3,0,8.00,40.00,30.00,0,0,1-20,Right-arm Medium-Fast,120.0,"Cutter",30.0,45.0,0,1,2,1,2,7.5,8.0,8.5
+Shreyas Iyer,Kolkata Knight Riders,0,0,0.0,0,0,0,0,0.00,0.00,0.00,0,0,0-0,Right-arm Off-break,0.0,"",0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+Rinku Singh,Kolkata Knight Riders,0,0,0.0,0,0,0,0,0.00,0.00,0.00,0,0,0-0,Left-arm Off-break,0.0,"",0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+Suyash Sharma,Kolkata Knight Riders,7,7,28.0,168,200,8,0,7.14,25.00,21.00,0,0,2-28,Right-arm Leg-break,87.0,"Googly",40.0,35.0,1,4,3,4,4,7.0,7.2,7.5
+Vaibhav Arora,Kolkata Knight Riders,5,5,20.0,160,6,0,8.00,26.67,20.00,0,0,2-30,Right-arm Fast-Medium,130.0,"Slower Ball",35.0,40.0,1,2,2,2,3,8.0,8.2,8.5
+Harshit Rana,Kolkata Knight Riders,4,4,16.0,96,130,5,0,8.13,26.00,19.20,0,0,2-35,Right-arm Fast-Medium,135.0,"Bouncer",33.0,42.0,1,2,2,2,3,8.0,8.2,8.5
+Anukul Roy,Kolkata Knight Riders,3,3,12.0,72,90,3,0,7.50,30.00,24.00,0,0,1-25,Left-arm Orthodox,85.0,"Arm Ball",30.0,45.0,1,1,1,1,2,7.5,7.8,8.0
+Andre Russell,Kolkata Knight Riders,14,14,30.0,180,280,10,0,9.33,28.00,18.00,0,0,2-35,Right-arm Fast-Medium,138.0,"Slower Ball, Bouncer",30.0,45.0,3,4,3,5,5,9.0,9.5,10.0
+Sunil Narine,Kolkata Knight Riders,14,14,56.0,336,370,16,1,6.61,23.13,21.00,0,0,3-20,Right-arm Off-break,85.0,"Carrom Ball, Quicker One",47.0,26.0,2,8,6,7,9,6.0,6.5,7.0
+Varun Chakravarthy,Kolkata Knight Riders,10,10,40.0,240,290,15,0,7.25,19.33,16.00,0,0,3-22,Right-arm Leg-break,87.0,"Carrom Ball, Slider",40.0,33.0,1,9,5,7,8,7.0,7.3,7.5
+Umesh Yadav,Kolkata Knight Riders,12,12,48.0,288,380,14,0,7.92,27.14,20.57,0,0,3-40,Right-arm Fast,140.0,"Swing, Seam",38.0,37.0,5,6,3,7,7,7.8,8.0,8.2
+Tim Southee,Kolkata Knight Riders,7,7,28.0,168,210,9,0,7.50,23.33,18.67,0,0,3-28,Right-arm Fast-Medium,130.0,"Swing, Slower Ball",40.0,35.0,3,3,3,4,5,7.2,7.5,7.8
+Shardul Thakur,Kolkata Knight Riders,11,11,44.0,350,16,0,7.95,21.88,19.38,0,0,3-30,Right-arm Medium-Fast,130.0,"Knuckle Ball, Slower Ball",37.0,37.0,4,6,6,8,8,8.0,7.5,8.2
+Mujeeb Ur Rahman,Kolkata Knight Riders,6,6,24.0,144,180,8,0,7.50,22.50,18.00,0,0,3-25,Right-arm Off-break,90.0,"Carrom Ball, Slider",39.0,35.0,1,5,2,4,4,7.2,7.5,7.8
+Nitish Rana,Kolkata Knight Riders,0,0,0.0,0,0,0,0,0.00,0.00,0.00,0,0,0-0,Right-arm Off-break,0.0,"",0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+Venkatesh Iyer,Kolkata Knight Riders,10,10,15.0,90,120,3,0,8.00,40.00,30.00,0,0,1-20,Right-arm Medium-Fast,120.0,"Cutter",30.0,45.0,0,1,2,1,2,7.5,8.0,8.5
+Shreyas Iyer,Kolkata Knight Riders,0,0,0.0,0,0,0,0,0.00,0.00,0.00,0,0,0-0,Right-arm Off-break,0.0,"",0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+Rinku Singh,Kolkata Knight Riders,0,0,0.0,0,0,0,0,0.00,0.00,0.00,0,0,0-0,Left-arm Off-break,0.0,"",0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+Suyash Sharma,Kolkata Knight Riders,7,7,28.0,168,200,8,0,7.14,25.00,21.00,0,0,2-28,Right-arm Leg-break,87.0,"Googly",40.0,35.0,1,4,3,4,4,7.0,7.2,7.5
+Vaibhav Arora,Kolkata Knight Riders,5,5,20.0,160,6,0,8.00,26.67,20.00,0,0,2-30,Right-arm Fast-Medium,130.0,"Slower Ball",35.0,40.0,1,2,2,2,3,8.0,8.2,8.5
+Harshit Rana,Kolkata Knight Riders,4,4,16.0,96,130,5,0,8.13,26.00,19.20,0,0,2-35,Right-arm Fast-Medium,135.0,"Bouncer",33.0,42.0,1,2,2,2,3,8.0,8.2,8.5
+Anukul Roy,Kolkata Knight Riders,3,3,12.0,72,90,3,0,7.50,30.00,24.00,0,0,1-25,Left-arm Orthodox,85.0,"Arm Ball",30.0,45.0,1,1,1,1,2,7.5,7.8,8.0
