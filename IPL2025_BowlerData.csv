@@ -15,7 +15,7 @@ Prasidh Krishna,Rajasthan Royals,9,9,36.0,216,280,12,0,7.78,23.33,18.00,0,0,3-35
 Lockie Ferguson,Kolkata Knight Riders,8,8,32.0,192,260,11,0,8.13,23.64,17.45,0,0,3-40,Right-arm Fast,145.0,"Slower Ball, Bouncer",36.0,39.0,3,4,4,5,6,8.2,7.9,8.5
 Umran Malik,Sunrisers Hyderabad,10,10,40.0,240,360,15,0,9.00,24.00,16.00,0,0,4-45,Right-arm Fast,150.0,"Yorker, Bouncer",32.0,45.0,4,6,5,7,8,9.0,8.5,9.5
 Deepak Chahar,Chennai Super Kings,7,7,28.0,168,200,9,1,7.14,22.22,18.67,0,0,3-22,Right-arm Medium-Fast,128.0,"Swing, Knuckle Ball",45.0,28.0,4,3,2,4,5,7.0,7.2,7.5
-Shardul Thakur,Delhi Capitals,11,11,44.0,350,16,0,7.95,21.88,19.38,0,0,3-30,Right-arm Medium-Fast,130.0,"Knuckle Ball, Slower Ball",37.0,37.0,4,6,6,8,8,8.0,7.5,8.2
+Shardul Thakur,Delhi Capitals,11,11,44.0,264,350,16,0,7.95,21.88,19.38,0,0,3-30,Right-arm Medium-Fast,130.0,"Knuckle Ball, Slower Ball",37.0,37.0,4,6,6,8,8,8.0,7.5,8.2
 Ravi Bishnoi,Lucknow Super Giants,14,14,56.0,336,410,19,0,7.32,21.58,17.68,0,0,3-25,Right-arm Leg-break,92.0,"Googly, Slider",39.0,36.0,2,10,7,9,10,7.0,7.5,7.8
 Axar Patel,Delhi Capitals,14,14,56.0,336,380,17,1,6.79,22.35,19.76,0,0,2-20,Left-arm Orthodox,85.0,"Arm Ball, Slider",46.0,25.0,2,8,7,9,8,6.5,6.8,7.0
 Varun Chakravarthy,Kolkata Knight Riders,10,10,40.0,240,290,15,0,7.25,19.33,16.00,0,0,3-22,Right-arm Leg-break,87.0,"Carrom Ball, Slider",40.0,33.0,1,9,5,7,8,7.0,7.3,7.5
@@ -203,21 +203,6 @@ David Warner,Delhi Capitals,0,0,0.0,0,0,0,0,0.00,0.00,0.00,0,0,0-0,Left-arm Leg-
 Rishabh Pant,Delhi Capitals,0,0,0.0,0,0,0,0,0.00,0.00,0.00,0,0,0-0,Right-arm Off-break,0.0,"",0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
 Mitchell Starc,Kolkata Knight Riders,7,7,28.0,168,220,10,0,7.86,22.00,16.80,0,0,3-30,Left-arm Fast,145.0,"Swing, Yorker",42.0,35.0,5,3,2,6,4,7.5,7.8,8.0
 Lockie Ferguson,Kolkata Knight Riders,8,8,32.0,192,260,11,0,8.13,23.64,17.45,0,0,3-40,Right-arm Fast,145.0,"Slower Ball, Bouncer",36.0,39.0,3,4,4,5,6,8.2,7.9,8.5
-Andre Russell,Kolkata Knight Riders,14,14,30.0,180,280,10,0,9.33,28.00,18.00,0,0,2-35,Right-arm Fast-Medium,138.0,"Slower Ball, Bouncer",30.0,45.0,3,4,3,5,5,9.0,9.5,10.0
-Sunil Narine,Kolkata Knight Riders,14,14,56.0,336,370,16,1,6.61,23.13,21.00,0,0,3-20,Right-arm Off-break,85.0,"Carrom Ball, Quicker One",47.0,26.0,2,8,6,7,9,6.0,6.5,7.0
-Varun Chakravarthy,Kolkata Knight Riders,10,10,40.0,240,290,15,0,7.25,19.33,16.00,0,0,3-22,Right-arm Leg-break,87.0,"Carrom Ball, Slider",40.0,33.0,1,9,5,7,8,7.0,7.3,7.5
-Umesh Yadav,Kolkata Knight Riders,12,12,48.0,288,380,14,0,7.92,27.14,20.57,0,0,3-40,Right-arm Fast,140.0,"Swing, Seam",38.0,37.0,5,6,3,7,7,7.8,8.0,8.2
-Tim Southee,Kolkata Knight Riders,7,7,28.0,168,210,9,0,7.50,23.33,18.67,0,0,3-28,Right-arm Fast-Medium,130.0,"Swing, Slower Ball",40.0,35.0,3,3,3,4,5,7.2,7.5,7.8
-Shardul Thakur,Kolkata Knight Riders,11,11,44.0,350,16,0,7.95,21.88,19.38,0,0,3-30,Right-arm Medium-Fast,130.0,"Knuckle Ball, Slower Ball",37.0,37.0,4,6,6,8,8,8.0,7.5,8.2
-Mujeeb Ur Rahman,Kolkata Knight Riders,6,6,24.0,144,180,8,0,7.50,22.50,18.00,0,0,3-25,Right-arm Off-break,90.0,"Carrom Ball, Slider",39.0,35.0,1,5,2,4,4,7.2,7.5,7.8
-Nitish Rana,Kolkata Knight Riders,0,0,0.0,0,0,0,0,0.00,0.00,0.00,0,0,0-0,Right-arm Off-break,0.0,"",0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
-Venkatesh Iyer,Kolkata Knight Riders,10,10,15.0,90,120,3,0,8.00,40.00,30.00,0,0,1-20,Right-arm Medium-Fast,120.0,"Cutter",30.0,45.0,0,1,2,1,2,7.5,8.0,8.5
-Shreyas Iyer,Kolkata Knight Riders,0,0,0.0,0,0,0,0,0.00,0.00,0.00,0,0,0-0,Right-arm Off-break,0.0,"",0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
-Rinku Singh,Kolkata Knight Riders,0,0,0.0,0,0,0,0,0.00,0.00,0.00,0,0,0-0,Left-arm Off-break,0.0,"",0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
-Suyash Sharma,Kolkata Knight Riders,7,7,28.0,168,200,8,0,7.14,25.00,21.00,0,0,2-28,Right-arm Leg-break,87.0,"Googly",40.0,35.0,1,4,3,4,4,7.0,7.2,7.5
-Vaibhav Arora,Kolkata Knight Riders,5,5,20.0,160,6,0,8.00,26.67,20.00,0,0,2-30,Right-arm Fast-Medium,130.0,"Slower Ball",35.0,40.0,1,2,2,2,3,8.0,8.2,8.5
-Harshit Rana,Kolkata Knight Riders,4,4,16.0,96,130,5,0,8.13,26.00,19.20,0,0,2-35,Right-arm Fast-Medium,135.0,"Bouncer",33.0,42.0,1,2,2,2,3,8.0,8.2,8.5
-Anukul Roy,Kolkata Knight Riders,3,3,12.0,72,90,3,0,7.50,30.00,24.00,0,0,1-25,Left-arm Orthodox,85.0,"Arm Ball",30.0,45.0,1,1,1,1,2,7.5,7.8,8.0
 Andre Russell,Kolkata Knight Riders,14,14,30.0,180,280,10,0,9.33,28.00,18.00,0,0,2-35,Right-arm Fast-Medium,138.0,"Slower Ball, Bouncer",30.0,45.0,3,4,3,5,5,9.0,9.5,10.0
 Sunil Narine,Kolkata Knight Riders,14,14,56.0,336,370,16,1,6.61,23.13,21.00,0,0,3-20,Right-arm Off-break,85.0,"Carrom Ball, Quicker One",47.0,26.0,2,8,6,7,9,6.0,6.5,7.0
 Varun Chakravarthy,Kolkata Knight Riders,10,10,40.0,240,290,15,0,7.25,19.33,16.00,0,0,3-22,Right-arm Leg-break,87.0,"Carrom Ball, Slider",40.0,33.0,1,9,5,7,8,7.0,7.3,7.5
