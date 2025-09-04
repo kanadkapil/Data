@@ -1,4 +1,4 @@
-rank,title,year,imdb rating,director,stars,genre,runtime,language,country
+SI,title,year,imdb rating,director,stars,genre,runtime,language,country
 1,The Shawshank Redemption,1994,9.3,Frank Darabont,"Tim Robbins, Morgan Freeman, Bob Gunton",Drama,142 min,English,USA
 2,The Godfather,1972,9.2,Francis Ford Coppola,"Marlon Brando, Al Pacino, James Caan",Crime,175 min,English,USA
 3,The Dark Knight,2008,9.0,Christopher Nolan,"Christian Bale, Heath Ledger, Aaron Eckhart",Action,152 min,English,USA
@@ -259,3 +259,108 @@ rank,title,year,imdb rating,director,stars,genre,runtime,language,country
 5007,Jalsaghar,1958,8.0,Satyajit Ray,"Chhabi Biswas, Padma Devi, Pinaki Sengupta",Drama,100 min,Bengali,India
 5008,Shatranj Ke Khilari,1977,7.8,Satyajit Ray,"Sanjeev Kumar, Saeed Jaffrey, Shabana Azmi",Drama/History,129 min,Hindi,India
 5009,Agantuk,1991,8.1,Satyajit Ray,"Utpal Dutt, Dipankar Dey, Mamata Shankar",Drama,120 min,Bengali,India
+4001,Drive,2011,7.8 (below Top 250),Nicolas Winding Refn,"Ryan Gosling, Carey Mulligan, Bryan Cranston",Crime/Drama,100 min,English,USA  (Not in IMDb Top 250) :contentReference[oaicite:0]{index=0}
+4002,Zodiac,2007,7.7,N/A (not Top 250),David Fincher,"Jake Gyllenhaal, Robert Downey Jr., Mark Ruffalo",Crime/Drama,157 min,English,USA :contentReference[oaicite:1]{index=1}
+4003,Black Swan,2010,8.0, Darren Aronofsky,"Natalie Portman, Mila Kunis, Vincent Cassel",Thriller/Drama,108 min,English,USA :contentReference[oaicite:2]{index=2}
+4004,Nightcrawler,2014,7.9, Dan Gilroy,"Jake Gyllenhaal, Rene Russo, Riz Ahmed",Thriller,117 min,English,USA :contentReference[oaicite:3]{index=3}
+4005,Children of Men,2006,7.9, Alfonso Cuarón,"Clive Owen, Julianne Moore, Michael Caine",Sci‑Fi/Drama,109 min,English/Spanish,UK/USA :contentReference[oaicite:4]{index=4}
+4006,Touch of Evil,1958,8.0, Orson Welles,"Orson Welles, Charlton Heston, Janet Leigh",Crime/Thriller,95 min,English,USA :contentReference[oaicite:5]{index=5}
+4007,Green Room,2015,7.0‑7.1 (cult status),Jeremy Saulnier,"Anton Yelchin, Imogen Poots, Patrick Stewart",Horror/Thriller,95 min,English,USA :contentReference[oaicite:6]{index=6}
+4008,Perfect Blue,1997,8.0, Satoshi Kon,"Rica Matsumoto",Animation/Thriller,82 min,Japanese,Japan :contentReference[oaicite:7]{index=7}
+4009,Stalker,1979,8.1, Andrei Tarkovsky,"Alexander Kaidonovsky, Anatoly Solonitsyn",Sci‑Fi/Drama,162 min,Russian (with subs),Soviet Union :contentReference[oaicite:8]{index=8}
+4010,Portrait of a Lady on Fire,2019,8.1, Céline Sciamma,"Noémie Merlant, Adèle Haenel",Romance/Drama,122 min,French,France :contentReference[oaicite:9]{index=9}
+4011,Yi Yi,2000,8.1, Edward Yang,"Ko‑rear‑huang, Chang Kuo‑ling",Drama,173 min,Mandarin,Taiwan :contentReference[oaicite:10]{index=10}
+4012,A Brighter Summer Day,1991,8.3, Edward Yang,"Lim Giong, Lee Kang‑sheng",Drama/Crime,235 min,Mandarin/Taiwanese,Taiwan :contentReference[oaicite:11]{index=11}
+4013,Central Station,1998,8.0, Walter Salles,"Fernanda Montenegro, Vinícius de Oliveira",Drama,113 min,Portuguese,Brazil :contentReference[oaicite:12]{index=12}
+4014,The Human Condition I: No Greater Love,1959,8.5, Masaki Kobayashi,"Tatsuya Nakadai",War/Drama,206 min,Japanese,Japan :contentReference[oaicite:13]{index=13}
+4015,The Human Condition III: A Soldier's Prayer,1961,8.8, Masaki Kobayashi,"Tatsuya Nakadai",War/Drama,204 min,Japanese,Japan :contentReference[oaicite:14]{index=14}
+4016, A Dog's Will,2000,8.6, Guel Arraes,"Matheus Nachtergaele",Comedy/Dramedy,99 min,Portuguese,Brazil :contentReference[oaicite:15]{index=15}
+4017,Gattaca,1997,7.7, Andrew Niccol,"Ethan Hawke, Uma Thurman, Jude Law",Sci‑Fi/Drama,106 min,English,USA :contentReference[oaicite:16]{index=16}
+4018,October Sky,1999,7.8, Joe Johnston,"Jake Gyllenhaal, Chris Cooper, Laura Dern",Biography/Drama,108 min,English,USA :contentReference[oaicite:17]{index=17}
+4019,Eastern Promises,2007,7.6, David Cronenberg,"Viggo Mortensen, Naomi Watts, Armin Mueller‑Stahl",Crime/Thriller,100 min,English,UK/Canada :contentReference[oaicite:18]{index=18}
+4020,The Terminal,2004,7.4, Steven Spielberg,"Tom Hanks, Catherine Zeta‑Jones, Chi McBride",Comedy/Drama,128 min,English,USA :contentReference[oaicite:19]{index=19}
+4021,Pay It Forward,2000,7.2,Mimi Leder,"Kevin Spacey, Haley Joel Osment, Helen Hunt",Drama,123 min,English,USA (IMDb user list) :contentReference[oaicite:0]{index=0}
+4022,Man on the Moon,1999,7.4,Milos Forman,"Jim Carrey, Danny DeVito, Gerry Becker",Biography/Comedy,118 min,English,USA (IMDb user list) :contentReference[oaicite:1]{index=1}
+4023,Moon,2009,7.8,Duncan Jones,"Sam Rockwell, Kevin Spacey",Sci‑Fi/Drama,97 min,English,UK (IMDb user list) :contentReference[oaicite:2]{index=2}
+4024,District 9,2009,7.9,Neill Blomkamp,"Sharlto Copley, David James",Sci‑Fi/Thriller,112 min,English,South Africa/USA (IMDb user list) :contentReference[oaicite:3]{index=3}
+4025,The Pursuit of Happyness,2006,7.5,Mimi Leder,"Will Smith, Jaden Smith",Biography/Drama,117 min,English,USA (IMDb user list) :contentReference[oaicite:4]{index=4}
+4026,Escape from Alcatraz,1979,7.6,Don Siegel,"Clint Eastwood, Patrick McGoohan",Thriller,112 min,English,USA (IMDb list) :contentReference[oaicite:5]{index=5}
+4027,The French Connection,1971,7.7,William Friedkin,"Gene Hackman, Roy Scheider",Crime/Thriller,104 min,English,USA (IMDb list) :contentReference[oaicite:6]{index=6}
+4028,The Untouchables,1987,7.8,Brian De Palma,"Kevin Costner, Sean Connery",Crime/Drama,118 min,English,USA (IMDb list) :contentReference[oaicite:7]{index=7}
+4029,Kramer vs. Kramer,1979,7.8,Robert Benton,"Dustin Hoffman, Meryl Streep",Drama,105 min,English,USA (IMDb list) :contentReference[oaicite:8]{index=8}
+4030,Woman in the Dunes,1964,8.4,Hiroshi Teshigahara,"Eiji Okada, Kyôko Kishida",Drama,147 min,Japanese,Japan (IMDb list) :contentReference[oaicite:9]{index=9}
+4031,The Unvanquished,1956,8.2,Satyajit Ray,"Pinaki Sengupta",Drama,110 min,Bengali,India (IMDb list) :contentReference[oaicite:10]{index=10}
+4032,Close-Up,1990,8.2,Abbas Kiarostami,"Mohsen Makhmalbaf",Drama,98 min,Persian,Iran (IMDb list) :contentReference[oaicite:11]{index=11}
+4033,The Chaser,2008,7.8,Na Hong-jin,"Kim Yoon-seok, Ha Jung-woo",Thriller,125 min,Korean,South Korea (IMDb list) :contentReference[oaicite:12]{index=12}
+4034,Dogville,2003,8.0,Lars von Trier,"Nicole Kidman, Lauren Bacall",Drama,178 min,English,Denmark/Sweden (IMDb list) :contentReference[oaicite:13]{index=13}
+4035,Guardians of the Galaxy,2014,8.0,James Gunn,"Chris Pratt, Zoe Saldana",Action/Sci‑Fi,121 min,English,USA (IMDb list) :contentReference[oaicite:14]{index=14}
+4036,Roman Holiday,1953,8.0,William Wyler,"Audrey Hepburn, Gregory Peck",Romantic/Comedy,118 min,English/Italian,USA/Italy (IMDb list) :contentReference[oaicite:15]{index=15}
+4037,Who's Afraid of Virginia Woolf?,1966,8.0,Mike Nichols,"Elizabeth Taylor, Richard Burton",Drama,132 min,English,USA (IMDb list) :contentReference[oaicite:16]{index=16}
+4038,Anatomy of a Murder,1959,8.0,Otto Preminger,"James Stewart, Lee Remick",Crime/Drama,142 min,English,USA (IMDb list) :contentReference[oaicite:17]{index=17}
+4039,All Quiet on the Western Front,1930,8.1,Lewis Milestone,"Lew Ayres",War/Drama,152 min,English,USA (IMDb list) :contentReference[oaicite:18]{index=18}
+4040,Perfect Blue,1997,8.0,Satoshi Kon,"Rica Matsumoto",Animation/Thriller,82 min,Japanese,Japan :contentReference[oaicite:19]{index=19}
+4041,Stalker,1979,8.1,Andrei Tarkovsky,"Alexander Kaidonovsky",Sci‑Fi/Drama,163 min,Russian,USSR :contentReference[oaicite:20]{index=20}
+4042,Portrait of a Lady on Fire,2019,8.1,Céline Sciamma,"Noémie Merlant, Adèle Haenel",Romance/Drama,122 min,French,France :contentReference[oaicite:21]{index=21}
+4043,The Human Condition I: No Greater Love,1959,8.5,Masaki Kobayashi,"Tatsuya Nakadai",War/Drama,205 min,Japanese,Japan :contentReference[oaicite:22]{index=22}
+4044,The Human Condition III: A Soldier's Prayer,1961,8.8,Masaki Kobayashi,"Tatsuya Nakadai",War/Drama,204 min,Japanese,Japan :contentReference[oaicite:23]{index=23}
+4045,Yi Yi,2000,8.1,Edward Yang,"Multi‑ensemble",Drama,173 min,Mandarin,Taiwan :contentReference[oaicite:24]{index=24}
+4046,A Brighter Summer Day,1991,8.3,Edward Yang,"Multi‑ensemble",Drama,235 min,Mandarin,Taiwan :contentReference[oaicite:25]{index=25}
+4047,Central Station,1998,8.0,Walter Salles,"Fernanda Montenegro, Vinícius de Oliveira",Drama,113 min,Portuguese,Brazil :contentReference[oaicite:26]{index=26}
+4048,A Dog's Will,2000,8.6,Guel Arraes,"Matheus Nachtergaele",Comedy/Drama,99 min,Portuguese,Brazil :contentReference[oaicite:27]{index=27}
+4049,The Hudsucker Proxy,1994,7.3,Coen Brothers,"Tim Robbins, Paul Newman",Comedy/Fantasy,111 min,English,USA (GQ hidden gem) :contentReference[oaicite:28]{index=28}
+4050,Arctic Void,2025 (est),IMDb mixed (approx 6‑7),Darren Mann,"Michael Weaver, Tim Griffin",Sci‑Fi/Thriller,approx 90 min,English,USA/Canada (Tom’s Guide underrated) :contentReference[oaicite:29]{index=29}
+4051,The Northman,2022,7.1 (below Top 250),Robert Eggers,"Alexander Skarsgård, Anya Taylor-Joy",Action/Drama,137 min,English,USA/Ireland (Should be Top 250 per Reddit) :contentReference[oaicite:30]{index=30}
+4052,Toy Story 2,1999,7.9,John Lasseter et al.,"Tom Hanks, Tim Allen",Animation/Adventure,92 min,English,USA (Reddit favored) :contentReference[oaicite:31]{index=31}
+4053,Knives Out,2019,7.9,Rian Johnson,"Daniel Craig, Ana de Armas",Mystery/Comedy,130 min,English,USA (Reddit favored) :contentReference[oaicite:32]{index=32}
+4054,Don’t Look Up,2021,7.2,Adam McKay,"Leonardo DiCaprio, Jennifer Lawrence",Comedy/Drama,138 min,English,USA (Reddit) :contentReference[oaicite:33]{index=33}
+4055,Donnie Darko,2001,8.0,Richard Kelly,"Jake Gyllenhaal",Sci‑Fi/Drama,113 min,English,USA (Reddit) :contentReference[oaicite:34]{index=34}
+4056,My Cousin Vinny,1992,7.6,Jonathan Lynn,"Joe Pesci, Marisa Tomei",Comedy/Legal,120 min,English,USA (Reddit) :contentReference[oaicite:35]{index=35}
+4057,Sicario,2015,7.6,Denis Villeneuve,"Emily Blunt, Josh Brolin",Crime/Thriller,121 min,English,USA/Mexico (Reddit) :contentReference[oaicite:36]{index=36}
+4058,Arrival,2016,7.9,Denis Villeneuve,"Amy Adams, Jeremy Renner",Sci‑Fi,116 min,English,USA (Reddit) :contentReference[oaicite:37]{index=37}
+4059,Moneyball,2011,7.7,Bennett Miller,"Brad Pitt, Jonah Hill",Biography/Sports,133 min,English,USA (Reddit) :contentReference[oaicite:38]{index=38}
+4060,Primer,2004,6.9,Shane Carruth,"Shane Carruth",Sci‑Fi,77 min,English,USA (Forum) :contentReference[oaicite:39]{index=39}
+4061,From Hell,2001,6.7,Albert & Allen Hughes,"Johnny Depp",Crime/Horror,122 min,English,UK/USA (Forum) :contentReference[oaicite:40]{index=40}
+4062,Eyes Wide Shut,1999,7.4,Stanley Kubrick,"Tom Cruise, Nicole Kidman",Drama/Mystery,159 min,English,USA (Forum) :contentReference[oaicite:41]{index=41}
+4063,Blood Diamond,2006,8.0,Edward Zwick,"Leonardo DiCaprio, Djimon Hounsou",Action/Drama,143 min,English,USA (Forum) :contentReference[oaicite:42]{index=42}
+4064,Cast Away,2000,7.8,Robert Zemeckis,"Tom Hanks",Adventure/Drama,143 min,English,USA (Forum) :contentReference[oaicite:43]{index=43}
+4065,The Machinist,2004,7.7,Brad Anderson,"Christian Bale",Thriller,101 min,English,USA (Forum) :contentReference[oaicite:44]{index=44}
+4066,Solaris,1972,7.9,Andrei Tarkovsky,"Natalya Bondarchuk",Sci‑Fi/Drama,167 min,Russian,USSR (Forum list) :contentReference[oaicite:45]{index=45}
+4067,Sunshine,2007,7.2,Danny Boyle,"Cillian Murphy",Sci‑Fi,107 min,English,UK (Forum/Reddit) :contentReference[oaicite:46]{index=46}
+4068,Moonrise Kingdom,2012,7.7,Wes Anderson,"Jared Gilman, Bruce Willis",Comedy/Drama,94 min,English,USA (Reddit) :contentReference[oaicite:47]{index=47}
+4069,Princess Mononoke,1997,8.4,Hayao Miyazaki,"Yōji Matsuda, Yuriko Ishida",Animation/Adventure,133 min,Japanese,Japan (Reddit) :contentReference[oaicite:48]{index=48}
+4070,The Peanut Butter Falcon,2019,7.6,Tyler Nilson & Michael Schwartz,"Zack Gottsagen, Shia LaBeouf",Adventure/Drama,97 min,English,USA (Reddit) :contentReference[oaicite:49]{index=49}
+4071,Bone Tomahawk,2015,7.1,S. Craig Zahler,"Kurt Russell",Western/Horror,132 min,English,USA (Reddit) :contentReference[oaicite:50]{index=50}
+4072,Climax,2018,7.2,Gaspard Noé,"Sofia Boutella",Horror/Music,95 min,French,France (Reddit) :contentReference[oaicite:51]{index=51}
+4073,Snowpiercer,2013,7.1,Bong Joon-ho,"Chris Evans",Sci‑Fi,126 min,Korean/English,South Korea/USA (Reddit) :contentReference[oaicite:52]{index=52}
+4074,Still Alice,2014,7.5,Richard Glatzer & Wash Westmoreland,"Julianne Moore",Drama,101 min,English,USA (Reddit) :contentReference[oaicite:53]{index=53}
+4075,Triangle,2009,6.9,Christopher Smith,"Melissa George",Horror/Mystery,99 min,English,UK/Australia (Reddit) :contentReference[oaicite:54]{index=54}
+4076,Chronicle,2012,7.0,Josh Trank,"Dane DeHaan",Sci‑Fi,84 min,English,USA (Reddit) :contentReference[oaicite:55]{index=55}
+4077,The Endless,2017,6.9,Justin Benson & Aaron Moorhead,"Justin Benson",Sci‑Fi/Horror,111 min,English,USA (Reddit) :contentReference[oaicite:56]{index=56}
+4078,Brazil,1985,8.0,Terry Gilliam,"Jonathan Pryce",Sci‑Fi/Comedy,132 min,English,UK/USA (Reddit) :contentReference[oaicite:57]{index=57}
+4079,The Sweet Hereafter,1997,7.7,Atom Egoyan,"Ian Holm, Sarah Polley",Drama,108 min,English,Canada (Critically acclaimed) :contentReference[oaicite:58]{index=58}
+4080,Ikiru,1952,8.3,Akira Kurosawa,"Takashi Shimura",Drama,143 min,Japanese,Japan (Classic critical) :contentReference[oaicite:59]{index=59}
+4081,Fanny and Alexander,1982,8.1,Ingmar Bergman,"Bertil Guve, Pernilla Allwin",Drama/Fantasy,188 min,Swedish,Sweden (Masterwork) :contentReference[oaicite:60]{index=60}
+4082,The Wild Bunch,1969,7.9,Sam Peckinpah,"William Holden",Western/Action,135 min,English,USA (AFI recognized) :contentReference[oaicite:61]{index=61}
+4083,Drishyam,2013,~8.2,Jeethu Joseph,"Mohanlal, Meena",Thriller/Drama,152 min,Malayalam,India (IMDb poll standout) :contentReference[oaicite:0]{index=0}  
+4084,The Man Who Shot Liberty Valance,1962,~8.2,John Ford,"James Stewart, John Wayne",Western/Drama,123 min,English,USA (IMDb poll favorite) :contentReference[oaicite:1]{index=1}  
+4085,Ace in the Hole,1951,~8.1,Billy Wilder,"Kirk Douglas",Crime/Drama,111 min,English,USA (Great movies not in Top 250) :contentReference[oaicite:2]{index=2}  
+4086,Under the Skin,2013,~6.3 (critically acclaimed),Jonathan Glazer,"Scarlett Johansson",Sci‑Fi/Drama,108 min,English,UK (Critics’ masterpiece) :contentReference[oaicite:3]{index=3}  
+4087,The Worst Person in the World,2021,~7.8,Joachim Trier,"Renate Reinsve",Romance/Drama,128 min,Norwegian/Norway (Deserves Top 250) :contentReference[oaicite:4]{index=4}  
+4088,The Assistant,2019,~6.6 (underrated),Kitty Green,"Julia Garner",Drama,87 min,English,USA (Wired’s underrated list) :contentReference[oaicite:5]{index=5}  
+4089,Annihilation,2018,~6.9,Alex Garland,"Natalie Portman",Sci‑Fi/Thriller,115 min,English,USA (Wired’s underrated list) :contentReference[oaicite:6]{index=6}  
+4090,99 Homes,2014,~7.2,Ramin Bahrani,"Andrew Garfield",Drama,112 min,English,USA (Wired’s underrated list) :contentReference[oaicite:7]{index=7}  
+4091,Good Time,2017,~7.4,Josh & Benny Safdie,"Robert Pattinson",Crime/Drama,101 min,English,USA (Wired’s underrated list) :contentReference[oaicite:8]{index=8}  
+4092,Enemy,2013,~6.9,Denis Villeneuve,"Jake Gyllenhaal",Thriller/Mystery,90 min,English,Canada (Wired’s underrated list) :contentReference[oaicite:9]{index=9}  
+4093,We Need to Talk About Kevin,2011,~7.5,Lynne Ramsay,"Tilda Swinton",Drama/Thriller,112 min,English,UK (Wired’s underrated list) :contentReference[oaicite:10]{index=10}  
+4094,The History Boys,2006,~7.6,Nick Hytner,"James Corden",Comedy/Drama,100 min,English,UK (Hidden gem list) :contentReference[oaicite:11]{index=11}  
+4095,The Brothers Bloom,2008,~7.0,Rian Johnson,"Adrien Brody",Adventure/Comedy,114 min,English,USA (Hidden gem list) :contentReference[oaicite:12]{index=12}  
+4096,Young Victoria,2009,~7.3,Jean-Marc Vallée,"Emily Blunt",Biography/Romance,105 min,English,UK/USA (Hidden gem list) :contentReference[oaicite:13]{index=13}  
+4097,The Big Chill,1983,~7.3,Lawrence Kasdan,"Ensemble",Drama/Comedy,100 min,English,USA (Hidden gem list) :contentReference[oaicite:14]{index=14}  
+4098,September (The Forty-Year-Old Version),2020,~6.8,Radha Blank,"Radha Blank",Comedy/Drama,93 min,English,USA (Marie Claire underrated) :contentReference[oaicite:15]{index=15}  
+4099,Jennifer’s Body,2009,~5.9,Karyn Kusama,"Megan Fox, Amanda Seyfried",Horror/Comedy,102 min,English,USA (Marie Claire underrated) :contentReference[oaicite:16]{index=16}  
+4100,October,2018,~7.5,Shoojit Sircar,"Varun Dhawan",Romance/Drama,111 min,Hindi,India (Bollywood underrated) :contentReference[oaicite:17]{index=17}  
+4101,Maqbool,2003,~7.7,Vishal Bhardwaj,"Irrfan Khan, Tabu",Crime/Drama,162 min,Hindi,India (Bollywood underrated) :contentReference[oaicite:18]{index=18}  
+4102,Lootera,2013,~7.0,Vikramaditya Motwane,"Ranveer Singh, Sonakshi Sinha",Romance/Drama,130 min,Hindi,India (Bollywood underrated) :contentReference[oaicite:19]{index=19}  
+
+
+
