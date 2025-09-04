@@ -1,0 +1,261 @@
+rank,title,year,imdb rating,director,stars,genre,runtime,language,country
+1,The Shawshank Redemption,1994,9.3,Frank Darabont,"Tim Robbins, Morgan Freeman, Bob Gunton",Drama,142 min,English,USA
+2,The Godfather,1972,9.2,Francis Ford Coppola,"Marlon Brando, Al Pacino, James Caan",Crime,175 min,English,USA
+3,The Dark Knight,2008,9.0,Christopher Nolan,"Christian Bale, Heath Ledger, Aaron Eckhart",Action,152 min,English,USA
+4,The Godfather Part II,1974,9.0,Francis Ford Coppola,"Al Pacino, Robert De Niro, Robert Duvall",Crime,202 min,English,USA
+5,12 Angry Men,1957,9.0,Sidney Lumet,"Henry Fonda, Lee J. Cobb, Martin Balsam",Drama,96 min,English,USA
+6,Schindler's List,1993,9.0,Steven Spielberg,"Liam Neeson, Ralph Fiennes, Ben Kingsley",Biography,195 min,English,USA
+7,The Lord of the Rings: The Return of the King,2003,9.0,Peter Jackson,"Elijah Wood, Viggo Mortensen, Ian McKellen",Action,201 min,English,New Zealand
+8,Pulp Fiction,1994,8.9,Quentin Tarantino,"John Travolta, Uma Thurman, Samuel L. Jackson",Crime,154 min,English,USA
+9,The Lord of the Rings: The Fellowship of the Ring,2001,8.8,Peter Jackson,"Elijah Wood, Ian McKellen, Orlando Bloom",Action,178 min,English,New Zealand
+10,Il buono, il brutto, il cattivo,1966,8.8,Sergio Leone,"Clint Eastwood, Eli Wallach, Lee Van Cleef",Western,178 min,Italian,Italy
+11,Forrest Gump,1994,8.8,Robert Zemeckis,"Tom Hanks, Robin Wright, Gary Sinise",Drama,142 min,English,USA
+12,Fight Club,1999,8.8,David Fincher,"Brad Pitt, Edward Norton, Meat Loaf",Drama,139 min,English,USA
+13,The Lord of the Rings: The Two Towers,2002,8.8,Peter Jackson,"Elijah Wood, Ian McKellen, Viggo Mortensen",Action,179 min,English,New Zealand
+14,Inception,2010,8.8,Christopher Nolan,"Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page",Action,148 min,English,USA
+15,Goodfellas,1990,8.7,Martin Scorsese,"Robert De Niro, Ray Liotta, Joe Pesci",Biography,146 min,English,USA
+16,Star Wars: Episode V - The Empire Strikes Back,1980,8.7,Irvin Kershner,"Mark Hamill, Harrison Ford, Carrie Fisher",Action,124 min,English,USA
+17,One Flew Over the Cuckoo's Nest,1975,8.7,Milos Forman,"Jack Nicholson, Louise Fletcher, Michael Berryman",Drama,133 min,English,USA
+18,The Matrix,1999,8.7,Lana Wachowski,Lilly Wachowski,"Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",Action,136 min,English,USA
+19,Seven,1995,8.6,David Fincher,"Morgan Freeman, Brad Pitt, Kevin Spacey",Crime,127 min,English,USA
+20,City of God,2002,8.6,Fernando Meirelles,Kátia Lund,"Alexandre Rodrigues, Leandro Firmino, Phellipe Haagensen",Crime,130 min,Portuguese,Brazil
+21,The Silence of the Lambs,1991,8.6,Jonathan Demme,"Jodie Foster, Anthony Hopkins, Lawrence A. Bonney",Crime,118 min,English,USA
+22,Saving Private Ryan,1998,8.6,Steven Spielberg,"Tom Hanks, Matt Damon, Tom Sizemore",Drama,169 min,English,USA
+23,Star Wars: Episode IV - A New Hope,1977,8.6,George Lucas,"Mark Hamill, Harrison Ford, Carrie Fisher",Action,121 min,English,USA
+24,The Green Mile,1999,8.6,Frank Darabont,"Tom Hanks, Michael Clarke Duncan, David Morse",Crime,189 min,English,USA
+25,Spirited Away,2001,8.6,Hayao Miyazaki,"Daveigh Chase, Suzanne Pleshette, Miyu Irino",Animation,125 min,Japanese,Japan
+26,The Usual Suspects,1995,8.5,Bryan Singer,"Kevin Spacey, Gabriel Byrne, Chazz Palminteri",Crime,106 min,English,USA
+27,American History X,1998,8.5,Tony Kaye,"Edward Norton, Edward Furlong, Beverly D'Angelo",Drama,119 min,English,USA
+28,Léon: The Professional,1994,8.5,Luc Besson,"Jean Reno, Gary Oldman, Natalie Portman",Action,110 min,French,France
+29,Whiplash,2014,8.5,Damien Chazelle,"Miles Teller, J.K. Simmons, Melissa Benoist",Drama,106 min,English,USA
+30,Intouchables,2011,8.5,Olivier Nakache,Éric Toledano,"François Cluzet, Omar Sy, Anne Le Ny",Biography,112 min,French,France
+31,Casablanca,1942,8.5,Michael Curtiz,"Humphrey Bogart, Ingrid Bergman, Paul Henreid",Drama,102 min,English,USA
+32,The Prestige,2006,8.5,Christopher Nolan,"Christian Bale, Hugh Jackman, Scarlett Johansson",Drama,130 min,English,UK
+33,The Pianist,2002,8.5,Roman Polanski,"Adrien Brody, Thomas Kretschmann, Frank Finlay",Biography,150 min,English,UK
+34,The Departed,2006,8.5,Martin Scorsese,"Leonardo DiCaprio, Matt Damon, Jack Nicholson",Crime,151 min,English,USA
+35,Gladiator,2000,8.5,Ridley Scott,"Russell Crowe, Joaquin Phoenix, Connie Nielsen",Action,155 min,English,USA
+36,Apocalypse Now,1979,8.4,Francis Ford Coppola,"Martin Sheen, Marlon Brando, Robert Duvall",Drama,147 min,English,USA
+37,The Lion King,1994,8.5,Roger Allers,Rob Minkoff,"Matthew Broderick, Jeremy Irons, James Earl Jones",Animation,88 min,English,USA
+38,Grave of the Fireflies,1988,8.5,Isao Takahata,"Tsutomu Tatsumi, Ayano Shiraishi, Akemi Yamaguchi",Animation,89 min,Japanese,Japan
+39,Back to the Future,1985,8.5,Robert Zemeckis,"Michael J. Fox, Christopher Lloyd, Lea Thompson",Adventure,116 min,English,USA
+40,Psycho,1960,8.5,Alfred Hitchcock,"Anthony Perkins, Janet Leigh, Vera Miles",Horror,109 min,English,USA
+41,The Departed,2006,8.5,Martin Scorsese,"Leonardo DiCaprio, Matt Damon, Jack Nicholson",Crime,151 min,English,USA
+42,Sunset Blvd.,1950,8.4,Billy Wilder,"William Holden, Gloria Swanson, Erich von Stroheim",Drama,110 min,English,USA
+43,The Shining,1980,8.4,Stanley Kubrick,"Jack Nicholson, Shelley Duvall, Danny Lloyd",Horror,146 min,English,UK
+44,The Great Dictator,1940,8.4,Charles Chaplin,"Charles Chaplin, Paulette Goddard, Jack Oakie",Comedy,125 min,English,USA
+45,Cinema Paradiso,1988,8.5,Giuseppe Tornatore,"Philippe Noiret, Enzo Cannavale, Antonella Attili",Drama,155 min,Italian,Italy
+46,Alien,1979,8.4,Ridley Scott,"Sigourney Weaver, Tom Skerritt, John Hurt",Horror,117 min,English,UK
+47,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,8.4,Stanley Kubrick,"Peter Sellers, George C. Scott, Sterling Hayden",Comedy,95 min,English,UK
+48,Jaws,1975,8.4,Steven Spielberg,"Roy Scheider, Robert Shaw, Richard Dreyfuss",Adventure,124 min,English,USA
+49,The Dark Knight Rises,2012,8.4,Christopher Nolan,"Christian Bale, Tom Hardy, Anne Hathaway",Action,164 min,English,UK
+50,Eternal Sunshine of the Spotless Mind,2004,8.3,Michel Gondry,"Jim Carrey, Kate Winslet, Tom Wilkinson",Drama,108 min,English,USA
+51,Once Upon a Time in America,1984,8.4,Sergio Leone,"Robert De Niro, James Woods, Elizabeth McGovern",Crime,229 min,English,USA
+52,Princess Mononoke,1997,8.4,Hayao Miyazaki,"Yôji Matsuda, Yuriko Ishida, Yûko Tanaka",Animation,134 min,Japanese,Japan
+53,Inglourious Basterds,2009,8.3,Quentin Tarantino,"Brad Pitt, Diane Kruger, Eli Roth",Adventure,153 min,English,Germany
+54,Amelie,2001,8.3,Jean-Pierre Jeunet,"Audrey Tautou, Mathieu Kassovitz, Jamel Debbouze",Comedy,122 min,French,France
+55,Monty Python and the Holy Grail,1975,8.2,Terry Gilliam,Terry Jones,"Graham Chapman, John Cleese, Eric Idle",Comedy,91 min,English,UK
+56,Oldboy,2003,8.4,Chan-wook Park,"Choi Min-sik, Yoo Ji-tae, Kang Hye-jeong",Action,120 min,Korean,South Korea
+57,Some Like It Hot,1959,8.3,Billy Wilder,"Marilyn Monroe, Tony Curtis, Jack Lemmon",Comedy,121 min,English,USA
+58,Braveheart,1995,8.3,Mel Gibson,"Mel Gibson, Sophie Marceau, Patrick McGoohan",Biography,178 min,English,USA
+59,Witness for the Prosecution,1957,8.4,Billy Wilder,"Tyrone Power, Marlene Dietrich, Charles Laughton",Crime,116 min,English,USA
+60,Reservoir Dogs,1992,8.3,Quentin Tarantino,"Harvey Keitel, Tim Roth, Michael Madsen",Crime,99 min,English,USA
+61,Requiem for a Dream,2000,8.3,Darren Aronofsky,"Ellen Burstyn, Jared Leto, Jennifer Connelly",Drama,102 min,English,USA
+62,Toy Story,1995,8.3,John Lasseter,"Tom Hanks, Tim Allen, Don Rickles",Animation,81 min,English,USA
+63,The Hunt,2012,8.3,Thomas Vinterberg,"Mads Mikkelsen, Thomas Bo Larsen, Annika Wedderkop",Drama,115 min,Danish,Denmark
+64,The Maltese Falcon,1941,8.4,John Huston,"Humphrey Bogart, Mary Astor, Gladys George",Crime,100 min,English,USA
+65,Double Indemnity,1944,8.3,Billy Wilder,"Fred MacMurray, Barbara Stanwyck, Edward G. Robinson",Crime,107 min,English,USA
+66,Heat,1995,8.2,Michael Mann,"Al Pacino, Robert De Niro, Val Kilmer",Action,170 min,English,USA
+67,The Kid,1921,8.3,Charles Chaplin,"Charles Chaplin, Edna Purviance, Jackie Coogan",Comedy,68 min,English,USA
+68,To Kill a Mockingbird,1962,8.2,Robert Mulligan,"Gregory Peck, John Megna, Frank Overton",Crime,129 min,English,USA
+69,Up,2009,8.3,Pete Docter,Bob Peterson,"Edward Asner, Jordan Nagai, John Ratzenberger",Animation,96 min,English,USA
+70,The Third Man,1949,8.3,Carol Reed,"Orson Welles, Joseph Cotten, Alida Valli",Film-Noir,104 min,English,UK
+71,Snatch,2000,8.2,Guy Ritchie,"Jason Statham, Brad Pitt, Stephen Graham",Crime,102 min,English,UK
+72,The Sting,1973,8.3,George Roy Hill,"Paul Newman, Robert Redford, Robert Shaw",Crime,129 min,English,USA
+73,L.A. Confidential,1997,8.2,Curtis Hanson,"Kevin Spacey, Russell Crowe, Guy Pearce",Crime,138 min,English,USA
+74,For a Few Dollars More,1965,8.3,Sergio Leone,"Clint Eastwood, Lee Van Cleef, Gian Maria Volontè",Western,132 min,Italian,Italy
+75,Amadeus,1984,8.3,Milos Forman,"F. Murray Abraham, Tom Hulce, Elizabeth Berridge",Biography,160 min,English,USA
+76,The Sixth Sense,1999,8.2,M. Night Shyamalan,"Bruce Willis, Haley Joel Osment, Toni Collette",Drama,107 min,English,USA
+77,The Grapes of Wrath,1940,8.3,John Ford,"Henry Fonda, Jane Darwell, John Carradine",Drama,129 min,English,USA
+78,Per qualche dollaro in più,1965,8.3,Sergio Leone,"Clint Eastwood, Lee Van Cleef, Gian Maria Volontè",Western,132 min,Italian,Italy
+79,North by Northwest,1959,8.3,Alfred Hitchcock,"Cary Grant, Eva Marie Saint, James Mason",Action,136 min,English,USA
+80,The Treasure of the Sierra Madre,1948,8.2,John Huston,"Humphrey Bogart, Walter Huston, Tim Holt",Adventure,126 min,English,USA
+81,Yojimbo,1961,8.2,Akira Kurosawa,"Toshiro Mifune, Eijiro Tono, Tatsuya Nakadai",Action,110 min,Japanese,Japan
+82,All About Eve,1950,8.3,Joseph L. Mankiewicz,"Bette Davis, Anne Baxter, George Sanders",Drama,138 min,English,USA
+83,The Great Escape,1963,8.2,John Sturges,"Steve McQueen, James Garner, Richard Attenborough",Adventure,172 min,English,USA
+84,The General,1926,8.2,Buster Keaton,Clyde Bruckman,"Buster Keaton, Marion Mack, Glen Cavender",Action,78 min,English,USA
+85,Lawrence of Arabia,1962,8.3,David Lean,"Peter O'Toole, Alec Guinness, Anthony Quinn",Adventure,227 min,English,UK
+86,The Bridge on the River Kwai,1957,8.2,David Lean,"William Holden, Alec Guinness, Jack Hawkins",Adventure,161 min,English,UK
+87,The Gold Rush,1925,8.2,Charles Chaplin,"Charles Chaplin, Mack Swain, Tom Murray",Adventure,95 min,English,USA
+88,Die Hard,1988,8.2,John McTiernan,"Bruce Willis, Alan Rickman, Bonnie Bedelia",Action,132 min,English,USA
+89,The Big Lebowski,1998,8.1,Joel Coen,Ethan Coen,"Jeff Bridges, John Goodman, Julianne Moore",Comedy,117 min,English,USA
+90,Pan's Labyrinth,2006,8.2,Guillermo del Toro,"Ivanna Baquero, Ariadna Gil, Sergi López",Drama,118 min,Spanish,Mexico
+91,Once Upon a Time in the West,1968,8.2,Sergio Leone,"Henry Fonda, Charles Bronson, Claudia Cardinale",Western,165 min,Italian,Italy
+92,The Thing,1982,8.2,John Carpenter,"Kurt Russell, Wilford Brimley, Keith David",Horror,109 min,English,USA
+93,The Seventh Seal,1957,8.2,Ingmar Bergman,"Max von Sydow, Gunnar Björnstrand, Bengt Ekerot",Drama,96 min,Swedish,Sweden
+94,Vertigo,1958,8.2,Alfred Hitchcock,"James Stewart, Kim Novak, Barbara Bel Geddes",Mystery,128 min,English,USA
+95,A Clockwork Orange,1971,8.3,Stanley Kubrick,"Malcolm McDowell, Patrick Magee, Michael Bates",Crime,136 min,English,UK
+96,The Grapes of Wrath,1940,8.3,John Ford,"Henry Fonda, Jane Darwell, John Carradine",Drama,129 min,English,USA
+97,Bicycle Thieves,1948,8.3,Vittorio De Sica,"Lamberto Maggiorani, Enzo Staiola, Lianella Carell",Drama,89 min,Italian,Italy
+98,Full Metal Jacket,1987,8.3,Stanley Kubrick,"Matthew Modine, R. Lee Ermey, Vincent D'Onofrio",Drama,116 min,English,UK
+99,Taxi Driver,1976,8.3,Martin Scorsese,"Robert De Niro, Jodie Foster, Cybill Shepherd",Crime,113 min,English,USA
+100,The Sting,1973,8.3,George Roy Hill,"Paul Newman, Robert Redford, Robert Shaw",Crime,129 min,English,USA
+101,The Kid,1921,8.3,Charles Chaplin,"Charles Chaplin, Edna Purviance, Jackie Coogan",Comedy,68 min,English,USA
+102,Citizen Kane,1941,8.3,Orson Welles,"Orson Welles, Joseph Cotten, Dorothy Comingore",Drama,119 min,English,USA
+103,Snatch,2000,8.2,Guy Ritchie,"Jason Statham, Brad Pitt, Stephen Graham",Crime,102 min,English,UK
+104,Singin' in the Rain,1952,8.3,Stanley Donen,Gene Kelly,"Gene Kelly, Donald O'Connor, Debbie Reynolds",Comedy,103 min,English,USA
+105,The General,1926,8.2,Buster Keaton,Clyde Bruckman,"Buster Keaton, Marion Mack, Glen Cavender",Action,78 min,English,USA
+106,The Bridge on the River Kwai,1957,8.2,David Lean,"William Holden, Alec Guinness, Jack Hawkins",Adventure,161 min,English,UK
+107,The Seventh Seal,1957,8.2,Ingmar Bergman,"Max von Sydow, Gunnar Björnstrand, Bengt Ekerot",Drama,96 min,Swedish,Sweden
+108,Vertigo,1958,8.2,Alfred Hitchcock,"James Stewart, Kim Novak, Barbara Bel Geddes",Mystery,128 min,English,USA
+109,Goodfellas,1990,8.7,Martin Scorsese,"Robert De Niro, Ray Liotta, Joe Pesci",Biography,146 min,English,USA
+110,The Departed,2006,8.5,Martin Scorsese,"Leonardo DiCaprio, Matt Damon, Jack Nicholson",Crime,151 min,English,USA
+111,Gladiator,2000,8.5,Ridley Scott,"Russell Crowe, Joaquin Phoenix, Connie Nielsen",Action,155 min,English,USA
+112,Amadeus,1984,8.3,Milos Forman,"F. Murray Abraham, Tom Hulce, Elizabeth Berridge",Biography,160 min,English,USA
+113,Paths of Glory,1957,8.4,Stanley Kubrick,"Kirk Douglas, Ralph Meeker, Adolphe Menjou",Drama,88 min,English,USA
+114,Full Metal Jacket,1987,8.3,Stanley Kubrick,"Matthew Modine, R. Lee Ermey, Vincent D'Onofrio",Drama,116 min,English,UK
+115,Taxi Driver,1976,8.3,Martin Scorsese,"Robert De Niro, Jodie Foster, Cybill Shepherd",Crime,113 min,English,USA
+116,Snatch,2000,8.2,Guy Ritchie,"Jason Statham, Brad Pitt, Stephen Graham",Crime,102 min,English,UK
+117,The Kid,1921,8.3,Charles Chaplin,"Charles Chaplin, Edna Purviance, Jackie Coogan",Comedy,68 min,English,USA
+118,The Sting,1973,8.3,George Roy Hill,"Paul Newman, Robert Redford, Robert Shaw",Crime,129 min,English,USA
+119,The Hunt,2012,8.3,Thomas Vinterberg,"Mads Mikkelsen, Thomas Bo Larsen, Annika Wedderkop",Drama,115 min,Danish,Denmark
+120,A Separation,2011,8.2,Asghar Farhadi,"Peyman Moaadi, Leila Hatami, Sareh Bayat",Drama,123 min,Persian,Iran
+121,The Gold Rush,1925,8.2,Charles Chaplin,"Charles Chaplin, Mack Swain, Tom Murray",Adventure,95 min,English,USA
+122,The Great Escape,1963,8.2,John Sturges,"Steve McQueen, James Garner, Richard Attenborough",Adventure,172 min,English,USA
+123,Singin' in the Rain,1952,8.3,Stanley Donen,Gene Kelly,"Gene Kelly, Donald O'Connor, Debbie Reynolds",Comedy,103 min,English,USA
+124,Citizen Kane,1941,8.3,Orson Welles,"Orson Welles, Joseph Cotten, Dorothy Comingore",Drama,119 min,English,USA
+125,The General,1926,8.2,Buster Keaton,Clyde Bruckman,"Buster Keaton, Marion Mack, Glen Cavender",Action,78 min,English,USA
+126,The Bridge on the River Kwai,1957,8.2,David Lean,"William Holden, Alec Guinness, Jack Hawkins",Adventure,161 min,English,UK
+127,The Seventh Seal,1957,8.2,Ingmar Bergman,"Max von Sydow, Gunnar Björnstrand, Bengt Ekerot",Drama,96 min,Swedish,Sweden
+128,Vertigo,1958,8.2,Alfred Hitchcock,"James Stewart, Kim Novak, Barbara Bel Geddes",Mystery,128 min,English,USA
+129,Goodfellas,1990,8.7,Martin Scorsese,"Robert De Niro, Ray Liotta, Joe Pesci",Biography,146 min,English,USA
+130,The Departed,2006,8.5,Martin Scorsese,"Leonardo DiCaprio, Matt Damon, Jack Nicholson",Crime,151 min,English,USA
+131,Gladiator,2000,8.5,Ridley Scott,"Russell Crowe, Joaquin Phoenix, Connie Nielsen",Action,155 min,English,USA
+132,Amadeus,1984,8.3,Milos Forman,"F. Murray Abraham, Tom Hulce, Elizabeth Berridge",Biography,160 min,English,USA
+133,Paths of Glory,1957,8.4,Stanley Kubrick,"Kirk Douglas, Ralph Meeker, Adolphe Menjou",Drama,88 min,English,USA
+134,Full Metal Jacket,1987,8.3,Stanley Kubrick,"Matthew Modine, R. Lee Ermey, Vincent D'Onofrio",Drama,116 min,English,UK
+135,Taxi Driver,1976,8.3,Martin Scorsese,"Robert De Niro, Jodie Foster, Cybill Shepherd",Crime,113 min,English,USA
+136,Snatch,2000,8.2,Guy Ritchie,"Jason Statham, Brad Pitt, Stephen Graham",Crime,102 min,English,UK
+137,The Kid,1921,8.3,Charles Chaplin,"Charles Chaplin, Edna Purviance, Jackie Coogan",Comedy,68 min,English,USA
+138,The Sting,1973,8.3,George Roy Hill,"Paul Newman, Robert Redford, Robert Shaw",Crime,129 min,English,USA
+139,The Hunt,2012,8.3,Thomas Vinterberg,"Mads Mikkelsen, Thomas Bo Larsen, Annika Wedderkop",Drama,115 min,Danish,Denmark
+140,A Separation,2011,8.2,Asghar Farhadi,"Peyman Moaadi, Leila Hatami, Sareh Bayat",Drama,123 min,Persian,Iran
+141,The Gold Rush,1925,8.2,Charles Chaplin,"Charles Chaplin, Mack Swain, Tom Murray",Adventure,95 min,English,USA
+142,The Great Escape,1963,8.2,John Sturges,"Steve McQueen, James Garner, Richard Attenborough",Adventure,172 min,English,USA
+143,Singin' in the Rain,1952,8.3,Stanley Donen,Gene Kelly,"Gene Kelly, Donald O'Connor, Debbie Reynolds",Comedy,103 min,English,USA
+144,Citizen Kane,1941,8.3,Orson Welles,"Orson Welles, Joseph Cotten, Dorothy Comingore",Drama,119 min,English,USA
+145,The General,1926,8.2,Buster Keaton,Clyde Bruckman,"Buster Keaton, Marion Mack, Glen Cavender",Action,78 min,English,USA
+146,The Bridge on the River Kwai,1957,8.2,David Lean,"William Holden, Alec Guinness, Jack Hawkins",Adventure,161 min,English,UK
+147,The Seventh Seal,1957,8.2,Ingmar Bergman,"Max von Sydow, Gunnar Björnstrand, Bengt Ekerot",Drama,96 min,Swedish,Sweden
+148,Vertigo,1958,8.2,Alfred Hitchcock,"James Stewart, Kim Novak, Barbara Bel Geddes",Mystery,128 min,English,USA
+149,Goodfellas,1990,8.7,Martin Scorsese,"Robert De Niro, Ray Liotta, Joe Pesci",Biography,146 min,English,USA
+150,The Departed,2006,8.5,Martin Scorsese,"Leonardo DiCaprio, Matt Damon, Jack Nicholson",Crime,151 min,English,USA
+151,Gladiator,2000,8.5,Ridley Scott,"Russell Crowe, Joaquin Phoenix, Connie Nielsen",Action,155 min,English,USA
+152,Amadeus,1984,8.3,Milos Forman,"F. Murray Abraham, Tom Hulce, Elizabeth Berridge",Biography,160 min,English,USA
+153,Paths of Glory,1957,8.4,Stanley Kubrick,"Kirk Douglas, Ralph Meeker, Adolphe Menjou",Drama,88 min,English,USA
+154,Full Metal Jacket,1987,8.3,Stanley Kubrick,"Matthew Modine, R. Lee Ermey, Vincent D'Onofrio",Drama,116 min,English,UK
+155,Taxi Driver,1976,8.3,Martin Scorsese,"Robert De Niro, Jodie Foster, Cybill Shepherd",Crime,113 min,English,USA
+156,Snatch,2000,8.2,Guy Ritchie,"Jason Statham, Brad Pitt, Stephen Graham",Crime,102 min,English,UK
+157,The Kid,1921,8.3,Charles Chaplin,"Charles Chaplin, Edna Purviance, Jackie Coogan",Comedy,68 min,English,USA
+158,The Sting,1973,8.3,George Roy Hill,"Paul Newman, Robert Redford, Robert Shaw",Crime,129 min,English,USA
+159,The Hunt,2012,8.3,Thomas Vinterberg,"Mads Mikkelsen, Thomas Bo Larsen, Annika Wedderkop",Drama,115 min,Danish,Denmark
+160,A Separation,2011,8.2,Asghar Farhadi,"Peyman Moaadi, Leila Hatami, Sareh Bayat",Drama,123 min,Persian,Iran
+161,The Gold Rush,1925,8.2,Charles Chaplin,"Charles Chaplin, Mack Swain, Tom Murray",Adventure,95 min,English,USA
+162,The Great Escape,1963,8.2,John Sturges,"Steve McQueen, James Garner, Richard Attenborough",Adventure,172 min,English,USA
+163,Singin' in the Rain,1952,8.3,Stanley Donen,Gene Kelly,"Gene Kelly, Donald O'Connor, Debbie Reynolds",Comedy,103 min,English,USA
+164,Citizen Kane,1941,8.3,Orson Welles,"Orson Welles, Joseph Cotten, Dorothy Comingore",Drama,119 min,English,USA
+165,The General,1926,8.2,Buster Keaton,Clyde Bruckman,"Buster Keaton, Marion Mack, Glen Cavender",Action,78 min,English,USA
+166,The Bridge on the River Kwai,1957,8.2,David Lean,"William Holden, Alec Guinness, Jack Hawkins",Adventure,161 min,English,UK
+167,The Seventh Seal,1957,8.2,Ingmar Bergman,"Max von Sydow, Gunnar Björnstrand, Bengt Ekerot",Drama,96 min,Swedish,Sweden
+168,Vertigo,1958,8.2,Alfred Hitchcock,"James Stewart, Kim Novak, Barbara Bel Geddes",Mystery,128 min,English,USA
+169,Goodfellas,1990,8.7,Martin Scorsese,"Robert De Niro, Ray Liotta, Joe Pesci",Biography,146 min,English,USA
+170,The Departed,2006,8.5,Martin Scorsese,"Leonardo DiCaprio, Matt Damon, Jack Nicholson",Crime,151 min,English,USA
+171,Gladiator,2000,8.5,Ridley Scott,"Russell Crowe, Joaquin Phoenix, Connie Nielsen",Action,155 min,English,USA
+172,Amadeus,1984,8.3,Milos Forman,"F. Murray Abraham, Tom Hulce, Elizabeth Berridge",Biography,160 min,English,USA
+173,Paths of Glory,1957,8.4,Stanley Kubrick,"Kirk Douglas, Ralph Meeker, Adolphe Menjou",Drama,88 min,English,USA
+174,Full Metal Jacket,1987,8.3,Stanley Kubrick,"Matthew Modine, R. Lee Ermey, Vincent D'Onofrio",Drama,116 min,English,UK
+175,Taxi Driver,1976,8.3,Martin Scorsese,"Robert De Niro, Jodie Foster, Cybill Shepherd",Crime,113 min,English,USA
+176,Snatch,2000,8.2,Guy Ritchie,"Jason Statham, Brad Pitt, Stephen Graham",Crime,102 min,English,UK
+177,The Kid,1921,8.3,Charles Chaplin,"Charles Chaplin, Edna Purviance, Jackie Coogan",Comedy,68 min,English,USA
+178,The Sting,1973,8.3,George Roy Hill,"Paul Newman, Robert Redford, Robert Shaw",Crime,129 min,English,USA
+179,The Hunt,2012,8.3,Thomas Vinterberg,"Mads Mikkelsen, Thomas Bo Larsen, Annika Wedderkop",Drama,115 min,Danish,Denmark
+180,A Separation,2011,8.2,Asghar Farhadi,"Peyman Moaadi, Leila Hatami, Sareh Bayat",Drama,123 min,Persian,Iran
+181,The Gold Rush,1925,8.2,Charles Chaplin,"Charles Chaplin, Mack Swain, Tom Murray",Adventure,95 min,English,USA
+182,The Great Escape,1963,8.2,John Sturges,"Steve McQueen, James Garner, Richard Attenborough",Adventure,172 min,English,USA
+183,Singin' in the Rain,1952,8.3,Stanley Donen,Gene Kelly,"Gene Kelly, Donald O'Connor, Debbie Reynolds",Comedy,103 min,English,USA
+184,Citizen Kane,1941,8.3,Orson Welles,"Orson Welles, Joseph Cotten, Dorothy Comingore",Drama,119 min,English,USA
+185,The General,1926,8.2,Buster Keaton,Clyde Bruckman,"Buster Keaton, Marion Mack, Glen Cavender",Action,78 min,English,USA
+186,The Bridge on the River Kwai,1957,8.2,David Lean,"William Holden, Alec Guinness, Jack Hawkins",Adventure,161 min,English,UK
+187,The Seventh Seal,1957,8.2,Ingmar Bergman,"Max von Sydow, Gunnar Björnstrand, Bengt Ekerot",Drama,96 min,Swedish,Sweden
+188,Vertigo,1958,8.2,Alfred Hitchcock,"James Stewart, Kim Novak, Barbara Bel Geddes",Mystery,128 min,English,USA
+189,Goodfellas,1990,8.7,Martin Scorsese,"Robert De Niro, Ray Liotta, Joe Pesci",Biography,146 min,English,USA
+190,The Departed,2006,8.5,Martin Scorsese,"Leonardo DiCaprio, Matt Damon, Jack Nicholson",Crime,151 min,English,USA
+191,Gladiator,2000,8.5,Ridley Scott,"Russell Crowe, Joaquin Phoenix, Connie Nielsen",Action,155 min,English,USA
+192,Amadeus,1984,8.3,Milos Forman,"F. Murray Abraham, Tom Hulce, Elizabeth Berridge",Biography,160 min,English,USA
+193,Paths of Glory,1957,8.4,Stanley Kubrick,"Kirk Douglas, Ralph Meeker, Adolphe Menjou",Drama,88 min,English,USA
+194,Full Metal Jacket,1987,8.3,Stanley Kubrick,"Matthew Modine, R. Lee Ermey, Vincent D'Onofrio",Drama,116 min,English,UK
+195,Taxi Driver,1976,8.3,Martin Scorsese,"Robert De Niro, Jodie Foster, Cybill Shepherd",Crime,113 min,English,USA
+196,Snatch,2000,8.2,Guy Ritchie,"Jason Statham, Brad Pitt, Stephen Graham",Crime,102 min,English,UK
+197,The Kid,1921,8.3,Charles Chaplin,"Charles Chaplin, Edna Purviance, Jackie Coogan",Comedy,68 min,English,USA
+198,The Sting,1973,8.3,George Roy Hill,"Paul Newman, Robert Redford, Robert Shaw",Crime,129 min,English,USA
+199,The Hunt,2012,8.3,Thomas Vinterberg,"Mads Mikkelsen, Thomas Bo Larsen, Annika Wedderkop",Drama,115 min,Danish,Denmark
+200,A Separation,2011,8.2,Asghar Farhadi,"Peyman Moaadi, Leila Hatami, Sareh Bayat",Drama,123 min,Persian,Iran
+201,The Gold Rush,1925,8.2,Charles Chaplin,"Charles Chaplin, Mack Swain, Tom Murray",Adventure,95 min,English,USA
+202,The Great Escape,1963,8.2,John Sturges,"Steve McQueen, James Garner, Richard Attenborough",Adventure,172 min,English,USA
+203,Singin' in the Rain,1952,8.3,Stanley Donen,Gene Kelly,"Gene Kelly, Donald O'Connor, Debbie Reynolds",Comedy,103 min,English,USA
+204,Citizen Kane,1941,8.3,Orson Welles,"Orson Welles, Joseph Cotten, Dorothy Comingore",Drama,119 min,English,USA
+205,The General,1926,8.2,Buster Keaton,Clyde Bruckman,"Buster Keaton, Marion Mack, Glen Cavender",Action,78 min,English,USA
+206,The Bridge on the River Kwai,1957,8.2,David Lean,"William Holden, Alec Guinness, Jack Hawkins",Adventure,161 min,English,UK
+207,The Seventh Seal,1957,8.2,Ingmar Bergman,"Max von Sydow, Gunnar Björnstrand, Bengt Ekerot",Drama,96 min,Swedish,Sweden
+208,Vertigo,1958,8.2,Alfred Hitchcock,"James Stewart, Kim Novak, Barbara Bel Geddes",Mystery,128 min,English,USA
+209,Goodfellas,1990,8.7,Martin Scorsese,"Robert De Niro, Ray Liotta, Joe Pesci",Biography,146 min,English,USA
+210,The Departed,2006,8.5,Martin Scorsese,"Leonardo DiCaprio, Matt Damon, Jack Nicholson",Crime,151 min,English,USA
+211,Gladiator,2000,8.5,Ridley Scott,"Russell Crowe, Joaquin Phoenix, Connie Nielsen",Action,155 min,English,USA
+212,Amadeus,1984,8.3,Milos Forman,"F. Murray Abraham, Tom Hulce, Elizabeth Berridge",Biography,160 min,English,USA
+213,Paths of Glory,1957,8.4,Stanley Kubrick,"Kirk Douglas, Ralph Meeker, Adolphe Menjou",Drama,88 min,English,USA
+214,Full Metal Jacket,1987,8.3,Stanley Kubrick,"Matthew Modine, R. Lee Ermey, Vincent D'Onofrio",Drama,116 min,English,UK
+215,Taxi Driver,1976,8.3,Martin Scorsese,"Robert De Niro, Jodie Foster, Cybill Shepherd",Crime,113 min,English,USA
+216,Snatch,2000,8.2,Guy Ritchie,"Jason Statham, Brad Pitt, Stephen Graham",Crime,102 min,English,UK
+217,The Kid,1921,8.3,Charles Chaplin,"Charles Chaplin, Edna Purviance, Jackie Coogan",Comedy,68 min,English,USA
+218,The Sting,1973,8.3,George Roy Hill,"Paul Newman, Robert Redford, Robert Shaw",Crime,129 min,English,USA
+219,The Hunt,2012,8.3,Thomas Vinterberg,"Mads Mikkelsen, Thomas Bo Larsen, Annika Wedderkop",Drama,115 min,Danish,Denmark
+220,A Separation,2011,8.2,Asghar Farhadi,"Peyman Moaadi, Leila Hatami, Sareh Bayat",Drama,123 min,Persian,Iran
+221,The Gold Rush,1925,8.2,Charles Chaplin,"Charles Chaplin, Mack Swain, Tom Murray",Adventure,95 min,English,USA
+222,The Great Escape,1963,8.2,John Sturges,"Steve McQueen, James Garner, Richard Attenborough",Adventure,172 min,English,USA
+223,Singin' in the Rain,1952,8.3,Stanley Donen,Gene Kelly,"Gene Kelly, Donald O'Connor, Debbie Reynolds",Comedy,103 min,English,USA
+224,Citizen Kane,1941,8.3,Orson Welles,"Orson Welles, Joseph Cotten, Dorothy Comingore",Drama,119 min,English,USA
+225,The General,1926,8.2,Buster Keaton,Clyde Bruckman,"Buster Keaton, Marion Mack, Glen Cavender",Action,78 min,English,USA
+226,The Bridge on the River Kwai,1957,8.2,David Lean,"William Holden, Alec Guinness, Jack Hawkins",Adventure,161 min,English,UK
+227,The Seventh Seal,1957,8.2,Ingmar Bergman,"Max von Sydow, Gunnar Björnstrand, Bengt Ekerot",Drama,96 min,Swedish,Sweden
+228,Vertigo,1958,8.2,Alfred Hitchcock,"James Stewart, Kim Novak, Barbara Bel Geddes",Mystery,128 min,English,USA
+229,Goodfellas,1990,8.7,Martin Scorsese,"Robert De Niro, Ray Liotta, Joe Pesci",Biography,146 min,English,USA
+230,The Departed,2006,8.5,Martin Scorsese,"Leonardo DiCaprio, Matt Damon, Jack Nicholson",Crime,151 min,English,USA
+231,Gladiator,2000,8.5,Ridley Scott,"Russell Crowe, Joaquin Phoenix, Connie Nielsen",Action,155 min,English,USA
+232,Amadeus,1984,8.3,Milos Forman,"F. Murray Abraham, Tom Hulce, Elizabeth Berridge",Biography,160 min,English,USA
+233,Paths of Glory,1957,8.4,Stanley Kubrick,"Kirk Douglas, Ralph Meeker, Adolphe Menjou",Drama,88 min,English,USA
+234,Full Metal Jacket,1987,8.3,Stanley Kubrick,"Matthew Modine, R. Lee Ermey, Vincent D'Onofrio",Drama,116 min,English,UK
+235,Taxi Driver,1976,8.3,Martin Scorsese,"Robert De Niro, Jodie Foster, Cybill Shepherd",Crime,113 min,English,USA
+236,Snatch,2000,8.2,Guy Ritchie,"Jason Statham, Brad Pitt, Stephen Graham",Crime,102 min,English,UK
+237,The Kid,1921,8.3,Charles Chaplin,"Charles Chaplin, Edna Purviance, Jackie Coogan",Comedy,68 min,English,USA
+238,The Sting,1973,8.3,George Roy Hill,"Paul Newman, Robert Redford, Robert Shaw",Crime,129 min,English,USA
+239,The Hunt,2012,8.3,Thomas Vinterberg,"Mads Mikkelsen, Thomas Bo Larsen, Annika Wedderkop",Drama,115 min,Danish,Denmark
+240,A Separation,2011,8.2,Asghar Farhadi,"Peyman Moaadi, Leila Hatami, Sareh Bayat",Drama,123 min,Persian,Iran
+241,The Gold Rush,1925,8.2,Charles Chaplin,"Charles Chaplin, Mack Swain, Tom Murray",Adventure,95 min,English,USA
+242,The Great Escape,1963,8.2,John Sturges,"Steve McQueen, James Garner, Richard Attenborough",Adventure,172 min,English,USA
+243,Singin' in the Rain,1952,8.3,Stanley Donen,Gene Kelly,"Gene Kelly, Donald O'Connor, Debbie Reynolds",Comedy,103 min,English,USA
+244,Citizen Kane,1941,8.3,Orson Welles,"Orson Welles, Joseph Cotten, Dorothy Comingore",Drama,119 min,English,USA
+245,The General,1926,8.2,Buster Keaton,Clyde Bruckman,"Buster Keaton, Marion Mack, Glen Cavender",Action,78 min,English,USA
+246,The Bridge on the River Kwai,1957,8.2,David Lean,"William Holden, Alec Guinness, Jack Hawkins",Adventure,161 min,English,UK
+247,The Seventh Seal,1957,8.2,Ingmar Bergman,"Max von Sydow, Gunnar Björnstrand, Bengt Ekerot",Drama,96 min,Swedish,Sweden
+248,Vertigo,1958,8.2,Alfred Hitchcock,"James Stewart, Kim Novak, Barbara Bel Geddes",Mystery,128 min,English,USA
+249,Goodfellas,1990,8.7,Martin Scorsese,"Robert De Niro, Ray Liotta, Joe Pesci",Biography,146 min,English,USA
+250,The Departed,2006,8.5,Martin Scorsese,"Leonardo DiCaprio, Matt Damon, Jack Nicholson",Crime,151 min,English,USA
+5000,Pather Panchali,1955,8.5,Satyajit Ray,"Subir Banerjee, Kanu Banerjee, Karuna Banerjee",Drama,125 min,Bengali,India
+5001,Aparajito,1956,8.3,Satyajit Ray,"Pinaki Sengupta, Smaran Ghosal, Karuna Banerjee",Drama,110 min,Bengali,India
+5002,Apur Sansar,1959,8.4,Satyajit Ray,"Soumitra Chatterjee, Sharmila Tagore, Alok Chakravarty",Drama,105 min,Bengali,India
+5003,Charulata,1964,8.1,Satyajit Ray,"Madhabi Mukherjee, Soumitra Chatterjee, Shailen Mukherjee",Drama/Romance,117 min,Bengali,India
+5004,The Music Room,1958,8.0,Satyajit Ray,"Chhabi Biswas, Padma Devi, Pinaki Sengupta",Drama,100 min,Bengali,India
+5005,Nayak,1966,8.2,Satyajit Ray,"Uttam Kumar, Sharmila Tagore, Bireswar Sen",Drama,120 min,Bengali,India
+5006,Devi,1960,8.0,Satyajit Ray,"Sharmila Tagore, Soumitra Chatterjee, Chhabi Biswas",Drama,93 min,Bengali,India
+5007,Jalsaghar,1958,8.0,Satyajit Ray,"Chhabi Biswas, Padma Devi, Pinaki Sengupta",Drama,100 min,Bengali,India
+5008,Shatranj Ke Khilari,1977,7.8,Satyajit Ray,"Sanjeev Kumar, Saeed Jaffrey, Shabana Azmi",Drama/History,129 min,Hindi,India
+5009,Agantuk,1991,8.1,Satyajit Ray,"Utpal Dutt, Dipankar Dey, Mamata Shankar",Drama,120 min,Bengali,India
